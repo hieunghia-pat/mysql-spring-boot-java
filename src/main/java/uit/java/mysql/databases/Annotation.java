@@ -3,10 +3,7 @@ package uit.java.mysql.databases;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 
 @Data
 @Entity(name = "Annotation")
@@ -33,6 +30,9 @@ public class Annotation {
     private boolean stateQA;
     @Column(name = "action_QA", nullable = false)
     private boolean actionQA;
+    @ManyToOne
+    @JoinColumn(name = "image_id", nullable = false, insertable = false, updatable = false)
+    private Image image;
 
     public Annotation() {
 

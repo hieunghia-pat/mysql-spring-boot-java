@@ -3,15 +3,13 @@ package uit.java.mysql.databases;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
+import java.util.List;
 
 @Data
 @EqualsAndHashCode(of = "id")
-@Entity(name = "User")
-@Table(name = "User")
+@Entity(name = "Users")
+@Table(name = "Users")
 public class User {
 
     @Id
@@ -23,6 +21,9 @@ public class User {
     private String password;
     @Column(name = "role", nullable = false)
     private String role;
+    @ManyToMany
+    @JoinTable(name = "Users_Subset", joinColumns = @JoinColumn(name = "user_id"), inverseJoinColumns = @JoinColumn(name = "subset_id"))
+    private List<Subset> subsets;
 
     public User() {
 

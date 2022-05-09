@@ -3,10 +3,8 @@ package uit.java.mysql.databases;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
+import java.util.List;
 
 @Data
 @Entity(name = "Image")
@@ -27,6 +25,11 @@ public class Image {
     private boolean to_delete;
     @Column(name = "user_id")
     private String user_id;
+    @OneToMany(mappedBy = "image")
+    private List<Annotation> annotations;
+    @ManyToOne
+    @JoinColumn(name = "subset_id", insertable = false, updatable = false)
+    private Subset subset;
 
     public Image() {
 

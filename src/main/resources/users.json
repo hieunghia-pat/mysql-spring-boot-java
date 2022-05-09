@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19520178",
+    "username": "Nguyễn Hiếu Nghĩa",
+    "password":"19520178",
+    "role": "annotator"
+  },
+  {
+    "id": "19520483",
+    "username": "Võ Trần Đông Dương",
+    "password":"19520483",
+    "role": "annotator"
+  },
+  {
+    "id": "19522076",
+    "username": "Hà Minh Quân",
+    "password":"19522076",
+    "role": "admin"
+  },
+  {
+    "id": "19520758",
+    "username": "Trần Đình Nam",
+    "password":"19520758",
+    "role": "admin"
+  }
+]

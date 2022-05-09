@@ -10,10 +10,12 @@ import org.springframework.stereotype.Component;
 import uit.java.mysql.databases.Annotation;
 import uit.java.mysql.databases.Image;
 import uit.java.mysql.databases.Subset;
+import uit.java.mysql.databases.User;
 import uit.java.mysql.json_parsing.JsonReader;
 import uit.java.mysql.repositories.AnnotationRepository;
 import uit.java.mysql.repositories.ImageRepository;
 import uit.java.mysql.repositories.SubsetRepository;
+import uit.java.mysql.repositories.UserRepository;
 
 import java.util.List;
 
@@ -30,18 +32,31 @@ public class DataCreator {
     private AnnotationRepository annotationRepository;
     @Autowired
     private SubsetRepository subsetRepository;
+    @Autowired
+    private UserRepository userRepository;
 
     @EventListener
     public void start(ContextRefreshedEvent event) {
 
-        JSONArray jsonArray = jsonReader.readJson();
+        JSONArray annotationJsonArray = jsonReader.readJson(jsonReader.getAnnotationJsonDir());
+        JSONArray userJsonArray = jsonReader.readJson(jsonReader.getUserJsonDir());
 
-        if (jsonArray.equals(null))
+        if (annotationJsonArray.equals(null) || userJsonArray.equals(null))
             return;
 
-        List<JSONObject> jsonObjects = jsonArray.stream().toList();
+        List<JSONObject> annotationJsonObjects = annotationJsonArray.stream().toList();
 
-        for (JSONObject jsonObject : jsonObjects) {
+        // create Subset table
+        for (JSONObject jsonObject : annotationJsonObjects) {
+            String filepath = (String) jsonObject.get("filepath");
+            Long subsetId = Long.parseLong(filepath.split("_")[1]);
+
+            Subset subset = new Subset(subsetId);
+            subsetRepository.save(subset);
+        }
+
+        // create Image and Annotation tables
+        for (JSONObject jsonObject : annotationJsonObjects) {
             String filename = (String) jsonObject.get("filename");
             String filepath = (String) jsonObject.get("filepath");
             List<JSONObject> annotations = ((JSONArray) jsonObject.get("annotations")).stream().toList();
@@ -53,9 +68,6 @@ public class DataCreator {
             Image image = new Image(image_id, filename, subsetId, toDelete);
 
             imageRepository.save(image);
-
-            Subset subset = new Subset(subsetId);
-            subsetRepository.save(subset);
 
             for (JSONObject annotation : annotations) {
                 Long ann_id = (Long) annotation.get("ann_id");
@@ -70,7 +82,18 @@ public class DataCreator {
                 Annotation ann = new Annotation(ann_id, image_id, question, answer, questionType, answerType, textQA, stateQA, actionQA);
                 annotationRepository.save(ann);
             }
+        }
 
+        // create User table
+        List<JSONObject> userJsonObjects = userJsonArray.stream().toList();
+        for (JSONObject object: userJsonObjects) {
+            String user_id = (String) object.get("id");
+            String username = (String) object.get("username");
+            String password = (String) object.get("password");
+            String role = (String) object.get("role");
+
+            User user = new User(user_id, username, password, role);
+            userRepository.save(user);
         }
     }
 }
