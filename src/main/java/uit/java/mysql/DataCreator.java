@@ -38,6 +38,9 @@ public class DataCreator {
     @EventListener
     public void start(ContextRefreshedEvent event) {
 
+        log.info(jsonReader.getUserJsonDir());
+        log.info(jsonReader.getAnnotationJsonDir());
+
         JSONArray annotationJsonArray = jsonReader.readJson(jsonReader.getAnnotationJsonDir());
         JSONArray userJsonArray = jsonReader.readJson(jsonReader.getUserJsonDir());
 

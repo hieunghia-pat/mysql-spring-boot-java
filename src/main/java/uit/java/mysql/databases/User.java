@@ -8,8 +8,8 @@ import java.util.List;
 
 @Data
 @EqualsAndHashCode(of = "id")
-@Entity(name = "Users")
-@Table(name = "Users")
+@Entity(name = "User")
+@Table(name = "User")
 public class User {
 
     @Id
@@ -22,7 +22,7 @@ public class User {
     @Column(name = "role", nullable = false)
     private String role;
     @ManyToMany
-    @JoinTable(name = "Users_Subset", joinColumns = @JoinColumn(name = "user_id"), inverseJoinColumns = @JoinColumn(name = "subset_id"))
+    @JoinTable(name = "User_Subset", joinColumns = @JoinColumn(name = "user_id"), inverseJoinColumns = @JoinColumn(name = "subset_id"))
     private List<Subset> subsets;
 
     public User() {
