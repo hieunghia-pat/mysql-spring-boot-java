@@ -5,5 +5,5 @@ import org.springframework.stereotype.Repository;
 import uit.java.mysql.databases.Image;
 
 @Repository
-public interface ImageRepository extends JpaRepository<Image, Integer> {
+public interface ImageRepository extends JpaRepository<Image, Long> {
 }

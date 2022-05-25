@@ -1,14 +1,12 @@
 package uit.java.mysql.databases;
 
 import lombok.Data;
-import lombok.EqualsAndHashCode;
 
 import javax.persistence.*;
 
 @Data
 @Entity(name = "Annotation")
 @Table(name = "Annotation")
-@EqualsAndHashCode(of = "id")
 public class Annotation {
 
     @Id
@@ -21,9 +19,9 @@ public class Annotation {
     @Column(name = "answer")
     private String answer;
     @Column(name = "question_type")
-    private Integer question_type;
+    private Long question_type;
     @Column(name = "answer_type")
-    private Integer answer_type;
+    private Long answer_type;
     @Column(name = "text_QA")
     private boolean textQA;
     @Column(name = "state_QA")
@@ -38,7 +36,8 @@ public class Annotation {
 
     }
 
-    public Annotation(Long id, Long image_id, String question, String answer, Integer question_type, Integer answer_type, boolean textQA, boolean stateQA, boolean actionQA) {
+    public Annotation(Long id, Long image_id, String question, String answer, Long question_type,
+                      Long answer_type, boolean textQA, boolean stateQA, boolean actionQA) {
         this.id = id;
         this.image_id = image_id;
         this.question = question;

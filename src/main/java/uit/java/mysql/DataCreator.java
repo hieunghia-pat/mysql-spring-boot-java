@@ -76,8 +76,8 @@ public class DataCreator {
                 Long ann_id = (Long) annotation.get("ann_id");
                 String question = (String) annotation.get("question");
                 String answer = (String) annotation.get("answer");
-                Integer questionType = ((Long) annotation.get("question-type")).intValue();
-                Integer answerType = ((Long) annotation.get("answer-type")).intValue();
+                Long questionType = (Long) annotation.get("question-type");
+                Long answerType = (Long) annotation.get("answer-type");
                 boolean textQA = (boolean) annotation.get("text-QA");
                 boolean stateQA = (boolean) annotation.get("state-QA");
                 boolean actionQA = (boolean) annotation.get("action-QA");
@@ -90,7 +90,7 @@ public class DataCreator {
         // create User table
         List<JSONObject> userJsonObjects = userJsonArray.stream().toList();
         for (JSONObject object: userJsonObjects) {
-            String user_id = (String) object.get("id");
+            Long user_id = (Long) object.get("id");
             String username = (String) object.get("username");
             String password = (String) object.get("password");
             String role = (String) object.get("role");

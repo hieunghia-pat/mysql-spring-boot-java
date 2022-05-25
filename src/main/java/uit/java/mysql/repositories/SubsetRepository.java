@@ -5,5 +5,5 @@ import org.springframework.stereotype.Repository;
 import uit.java.mysql.databases.Subset;
 
 @Repository
-public interface SubsetRepository extends JpaRepository<Subset, Integer> {
+public interface SubsetRepository extends JpaRepository<Subset, Long> {
 }

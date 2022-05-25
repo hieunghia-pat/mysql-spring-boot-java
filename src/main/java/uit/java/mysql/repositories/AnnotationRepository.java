@@ -5,5 +5,5 @@ import org.springframework.stereotype.Repository;
 import uit.java.mysql.databases.Annotation;
 
 @Repository
-public interface AnnotationRepository extends JpaRepository<Annotation, Integer> {
+public interface AnnotationRepository extends JpaRepository<Annotation, Long> {
 }
