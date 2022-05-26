@@ -1,25 +1,25 @@
 [
   {
-    "id": 1,
-    "username": "Nguyễn Hiếu Nghĩa",
+    "id": "1",
+    "username": "19520178",
     "password":"19520178",
     "role": "ROLE_ANNOTATOR"
   },
   {
-    "id": 2,
-    "username": "Võ Trần Đông Dương",
+    "id": "2",
+    "username": "19520483",
     "password":"19520483",
     "role": "ROLE_ANNOTATOR"
   },
   {
-    "id": 3,
-    "username": "Hà Minh Quân",
+    "id": "3",
+    "username": "19522076",
     "password":"19522076",
     "role": "ROLE_ADMIN"
   },
   {
-    "id": 4,
-    "username": "Trần Đình Nam",
+    "id": "4",
+    "username": "19520758",
     "password":"19520758",
     "role": "ROLE_ADMIN"
   }

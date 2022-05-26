@@ -12,7 +12,7 @@ public class User {
 
     @Id
     @Column(name = "id", nullable = false, unique = true)
-    private Long id;
+    private String id;
     @Column(name = "username", nullable = false)
     private String username;
     @Column(name = "password", nullable = false)
@@ -26,7 +26,7 @@ public class User {
 
     }
 
-    public User(Long id, String username, String password, String role) {
+    public User(String id, String username, String password, String role) {
         this.id = id;
         this.username = username;
         this.password = password;

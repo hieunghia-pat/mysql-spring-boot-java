@@ -90,7 +90,7 @@ public class DataCreator {
         // create User table
         List<JSONObject> userJsonObjects = userJsonArray.stream().toList();
         for (JSONObject object: userJsonObjects) {
-            Long user_id = (Long) object.get("id");
+            String user_id = object.get("id").toString();
             String username = (String) object.get("username");
             String password = (String) object.get("password");
             String role = (String) object.get("role");
