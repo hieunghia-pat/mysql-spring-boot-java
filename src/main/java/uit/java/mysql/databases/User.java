@@ -4,31 +4,38 @@ import lombok.Data;
 
 import javax.persistence.*;
 import java.util.Set;
+import java.util.UUID;
 
 @Data
 @Entity(name = "User")
-@Table(name = "User")
+@Table(name = "users")
 public class User {
 
     @Id
+    @GeneratedValue
     @Column(name = "id", nullable = false, unique = true)
-    private String id;
+    private UUID id;
     @Column(name = "username", nullable = false)
     private String username;
+    @Column(name = "firstname", nullable = false)
+    private String firstname;
+    @Column(name = "lastname", nullable = false)
+    private String lastname;
     @Column(name = "password", nullable = false)
     private String password;
     @Column(name = "role", nullable = false)
     private String role;
-    @OneToMany(mappedBy = "userId")
-    private Set<UserSubset> userSubsets;
+    @OneToMany(mappedBy = "annotator")
+    Set<Annotation> annotations;
 
     public User() {
 
     }
 
-    public User(String id, String username, String password, String role) {
-        this.id = id;
+    public User(String username, String firstname, String lastname, String password, String role) {
         this.username = username;
+        this.firstname = firstname;
+        this.lastname = lastname;
         this.password = password;
         this.role = role;
     }

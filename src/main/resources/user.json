@@ -1,0 +1,66 @@
+[
+    {
+        "id": null,
+        "username": "19520758",
+        "firstname": "Tran Dinh",
+        "lastname": "Nam",
+        "password": "19520758",
+        "role": "ROLE_ANNOTATOR"
+    },
+    {
+        "id": null,
+        "username": "21520395",
+        "firstname": "Phong",
+        "lastname": "Thanh Le",
+        "password": "21520395",
+        "role": "ROLE_ANNOTATOR"
+    },
+    {
+        "id": null,
+        "username": "21520488",
+        "firstname": "Huyen-Trang",
+        "lastname": "Nguyen-Thi",
+        "password": "21520488",
+        "role": "ROLE_ANNOTATOR"
+    },
+    {
+        "id": null,
+        "username": "21522062",
+        "firstname": "Liu",
+        "lastname": "Hien The",
+        "password": "21522062",
+        "role": "ROLE_ANNOTATOR"
+    },
+    {
+        "id": null,
+        "username": "21522325",
+        "firstname": "Tran",
+        "lastname": "Man-Nguyen",
+        "password": "21522325",
+        "role": "ROLE_ANNOTATOR"
+    },
+    {
+        "id": null,
+        "username": "21522725",
+        "firstname": "Phan-Le",
+        "lastname": "Chi-Trung",
+        "password": "21522725",
+        "role": "ROLE_ANNOTATOR"
+    },
+    {
+        "id": null,
+        "username": "21522811",
+        "firstname": "Vy",
+        "lastname": "Nguyen-Le",
+        "password": "21522811",
+        "role": "ROLE_ANNOTATOR"
+    },
+    {
+        "id": null,
+        "username": "19522076",
+        "firstname": "Minh-Quan",
+        "lastname": "Ha",
+        "password": "19522076",
+        "role": "ROLE_ADMIN"
+    }
+]

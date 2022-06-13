@@ -1,26 +1,30 @@
 [
   {
-    "id": "1",
     "username": "19520178",
+    "firstname": "Nghia",
+    "lastname": "Hieu Nguyen",
     "password":"19520178",
     "role": "ROLE_ANNOTATOR"
   },
   {
-    "id": "2",
     "username": "19520483",
+    "firstname": "Vo T.D",
+    "lastname": "Duong",
     "password":"19520483",
     "role": "ROLE_ANNOTATOR"
   },
   {
-    "id": "3",
     "username": "19522076",
+    "firstname": "Ha",
+    "lastname": "Minh-Quan",
     "password":"19522076",
     "role": "ROLE_ADMIN"
   },
   {
-    "id": "4",
     "username": "19520758",
+    "firstname": "Nam",
+    "lastname": "Tran-Dinh",
     "password":"19520758",
-    "role": "ROLE_ADMIN"
+    "role": "ROLE_ANNOTATOR"
   }
 ]

@@ -1,27 +1,33 @@
 package uit.java.mysql.databases;
 
 import lombok.Data;
+import lombok.EqualsAndHashCode;
 
 import javax.persistence.*;
+import java.util.UUID;
 
 @Data
 @Entity(name = "Annotation")
 @Table(name = "Annotation")
+@EqualsAndHashCode(of = "id")
 public class Annotation {
 
     @Id
+    @GeneratedValue
     @Column(name = "id", nullable = false, unique = true)
-    private Long id;
+    private UUID id;
     @Column(name = "image_id", nullable = false)
-    private Long image_id;
+    private Long imageId;
+    @Column(name = "user_id", nullable = false)
+    private UUID userId;
     @Column(name = "question")
     private String question;
     @Column(name = "answer")
     private String answer;
     @Column(name = "question_type")
-    private Long question_type;
+    private Long questionType;
     @Column(name = "answer_type")
-    private Long answer_type;
+    private Long answerType;
     @Column(name = "text_QA")
     private boolean textQA;
     @Column(name = "state_QA")
@@ -31,19 +37,22 @@ public class Annotation {
     @ManyToOne
     @JoinColumn(name = "image_id", nullable = false, insertable = false, updatable = false)
     private Image image;
+    @ManyToOne
+    @JoinColumn(name = "user_id", nullable = false, insertable = false, updatable = false)
+    private User annotator;
 
     public Annotation() {
 
     }
 
-    public Annotation(Long id, Long image_id, String question, String answer, Long question_type,
-                      Long answer_type, boolean textQA, boolean stateQA, boolean actionQA) {
-        this.id = id;
-        this.image_id = image_id;
+    public Annotation(Long imageId, UUID userId, String question, String answer, Long questionType,
+                      Long answerType, boolean textQA, boolean stateQA, boolean actionQA) {
+        this.imageId = imageId;
+        this.userId = userId;
         this.question = question;
         this.answer = answer;
-        this.question_type = question_type;
-        this.answer_type = answer_type;
+        this.questionType = questionType;
+        this.answerType = answerType;
         this.textQA = textQA;
         this.stateQA = stateQA;
         this.actionQA = actionQA;

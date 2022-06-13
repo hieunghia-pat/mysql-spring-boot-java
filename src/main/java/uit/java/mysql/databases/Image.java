@@ -1,6 +1,7 @@
 package uit.java.mysql.databases;
 
 import lombok.Data;
+import lombok.EqualsAndHashCode;
 
 import javax.persistence.*;
 import java.util.List;
@@ -8,6 +9,7 @@ import java.util.List;
 @Data
 @Entity(name = "Image")
 @Table(name = "Image")
+@EqualsAndHashCode(of = "id")
 public class Image {
 
     @Id
@@ -18,9 +20,9 @@ public class Image {
     @Column(name = "filename", nullable = false)
     private String filename;
     @Column(name = "subset_id", nullable = false)
-    private Long subset_id;
+    private Long subsetId;
     @Column(name = "to_delete", nullable = false)
-    private boolean to_delete;
+    private boolean toDelete;
     @OneToMany(mappedBy = "image")
     private List<Annotation> annotations;
     @ManyToOne
@@ -31,10 +33,11 @@ public class Image {
 
     }
 
-    public Image(Long id, String filename, Long subset_id, boolean to_delete) {
+    public Image(Long id, String url, String filename, Long subsetId, boolean toDelete) {
         this.id = id;
+        this.url = url;
         this.filename = filename;
-        this.subset_id = subset_id;
-        this.to_delete = to_delete;
+        this.subsetId = subsetId;
+        this.toDelete = toDelete;
     }
 }

@@ -1,0 +1,2802 @@
+[
+    {
+        "id": 6000,
+        "subset_id": 61,
+        "filename": "00000006000.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006000.jpg?alt=media&token=ce322c40-ab81-4ed5-a1c9-29cc0861f7e0",
+        "to_delete": false
+    },
+    {
+        "id": 6001,
+        "subset_id": 61,
+        "filename": "00000006001.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006001.jpg?alt=media&token=c39c6cfe-3db5-48ad-8e7a-00ba9546e776",
+        "to_delete": true
+    },
+    {
+        "id": 6002,
+        "subset_id": 61,
+        "filename": "00000006002.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006002.jpg?alt=media&token=e13cc2d8-8a99-45d9-94fc-e45844e2f61d",
+        "to_delete": true
+    },
+    {
+        "id": 6003,
+        "subset_id": 61,
+        "filename": "00000006003.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006003.jpg?alt=media&token=d05f5acc-294e-46e3-a079-c4a88ba76beb",
+        "to_delete": false
+    },
+    {
+        "id": 6004,
+        "subset_id": 61,
+        "filename": "00000006004.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006004.jpg?alt=media&token=1a2a1360-7fda-4ded-b7ed-95bcddfdd90e",
+        "to_delete": true
+    },
+    {
+        "id": 6005,
+        "subset_id": 61,
+        "filename": "00000006005.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006005.jpg?alt=media&token=ce79024a-23f2-4be9-85ab-cc1c3270e65b",
+        "to_delete": false
+    },
+    {
+        "id": 6006,
+        "subset_id": 61,
+        "filename": "00000006006.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006006.jpg?alt=media&token=9c610a41-ca9b-428e-aa20-2fe0c45ed192",
+        "to_delete": false
+    },
+    {
+        "id": 6007,
+        "subset_id": 61,
+        "filename": "00000006007.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006007.jpg?alt=media&token=9a9b4fe3-72fe-4604-bf3d-0fc08d3396c7",
+        "to_delete": false
+    },
+    {
+        "id": 6008,
+        "subset_id": 61,
+        "filename": "00000006008.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006008.jpg?alt=media&token=46ae0b71-8e72-41f5-b890-f2e9d3fc6008",
+        "to_delete": false
+    },
+    {
+        "id": 6009,
+        "subset_id": 61,
+        "filename": "00000006009.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006009.jpg?alt=media&token=61fe91e6-80c2-4f36-a6e5-e299e4620015",
+        "to_delete": false
+    },
+    {
+        "id": 6010,
+        "subset_id": 61,
+        "filename": "00000006010.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006010.jpg?alt=media&token=68265a82-7246-4a63-8cc7-0f32ff1daf67",
+        "to_delete": false
+    },
+    {
+        "id": 6011,
+        "subset_id": 61,
+        "filename": "00000006011.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006011.jpg?alt=media&token=15f01feb-4c47-40ba-aada-c51d672fa664",
+        "to_delete": false
+    },
+    {
+        "id": 6012,
+        "subset_id": 61,
+        "filename": "00000006012.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006012.jpg?alt=media&token=89921f7d-5e4d-4226-ac72-bd8fa44956c4",
+        "to_delete": false
+    },
+    {
+        "id": 6013,
+        "subset_id": 61,
+        "filename": "00000006013.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006013.jpg?alt=media&token=641c44c9-40d9-4efa-87e7-ccbbaa53416b",
+        "to_delete": true
+    },
+    {
+        "id": 6014,
+        "subset_id": 61,
+        "filename": "00000006014.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006014.jpg?alt=media&token=f9deda06-78ac-47ad-943a-17611c97941d",
+        "to_delete": false
+    },
+    {
+        "id": 6015,
+        "subset_id": 61,
+        "filename": "00000006015.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006015.jpg?alt=media&token=f0aedb5c-1d4b-4002-9df5-419462a8dbe2",
+        "to_delete": false
+    },
+    {
+        "id": 6016,
+        "subset_id": 61,
+        "filename": "00000006016.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006016.jpg?alt=media&token=fbdee72a-1cbc-4847-9458-959f0816ad81",
+        "to_delete": false
+    },
+    {
+        "id": 6017,
+        "subset_id": 61,
+        "filename": "00000006017.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006017.png?alt=media&token=bf0aa1a5-c7be-48d2-980c-45431f23ae21",
+        "to_delete": false
+    },
+    {
+        "id": 6018,
+        "subset_id": 61,
+        "filename": "00000006018.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006018.jpg?alt=media&token=7d667328-0ce9-4687-8490-16d034c5847f",
+        "to_delete": false
+    },
+    {
+        "id": 6019,
+        "subset_id": 61,
+        "filename": "00000006019.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006019.png?alt=media&token=0f6bddbe-3746-475d-b5fb-f072a0f253f7",
+        "to_delete": true
+    },
+    {
+        "id": 6020,
+        "subset_id": 61,
+        "filename": "00000006020.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006020.jpg?alt=media&token=79bba4fa-1bab-4080-81a4-b061bff2dba2",
+        "to_delete": false
+    },
+    {
+        "id": 6021,
+        "subset_id": 61,
+        "filename": "00000006021.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006021.jpg?alt=media&token=161d8d24-5c5a-4bb8-b6ad-1c90677152f9",
+        "to_delete": false
+    },
+    {
+        "id": 6022,
+        "subset_id": 61,
+        "filename": "00000006022.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006022.jpg?alt=media&token=ab1db372-5b9a-4b76-89d8-a69d0806c0e2",
+        "to_delete": false
+    },
+    {
+        "id": 6023,
+        "subset_id": 61,
+        "filename": "00000006023.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006023.png?alt=media&token=b7d4003b-77a8-4d48-863c-e2f7ba054885",
+        "to_delete": false
+    },
+    {
+        "id": 6024,
+        "subset_id": 61,
+        "filename": "00000006024.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006024.png?alt=media&token=5b14be4b-24f4-454a-841f-b2e29ef89d41",
+        "to_delete": true
+    },
+    {
+        "id": 6025,
+        "subset_id": 61,
+        "filename": "00000006025.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006025.jpg?alt=media&token=22a96f16-50a2-42bb-b28a-864bc5213902",
+        "to_delete": false
+    },
+    {
+        "id": 6026,
+        "subset_id": 61,
+        "filename": "00000006026.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006026.jpg?alt=media&token=04226310-bb07-45cb-be8b-3d608f56da9b",
+        "to_delete": false
+    },
+    {
+        "id": 6027,
+        "subset_id": 61,
+        "filename": "00000006027.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006027.jpg?alt=media&token=8d249866-0148-463b-999c-362f3a861a6a",
+        "to_delete": false
+    },
+    {
+        "id": 6028,
+        "subset_id": 61,
+        "filename": "00000006028.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006028.jpg?alt=media&token=57262a22-8201-42fa-ab58-46a538e62b30",
+        "to_delete": false
+    },
+    {
+        "id": 6029,
+        "subset_id": 61,
+        "filename": "00000006029.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006029.jpg?alt=media&token=c36805b3-cedc-46e2-a001-b7216367a674",
+        "to_delete": false
+    },
+    {
+        "id": 6030,
+        "subset_id": 61,
+        "filename": "00000006030.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006030.jpg?alt=media&token=128c352c-6f99-4bdc-b560-e37705f68dec",
+        "to_delete": true
+    },
+    {
+        "id": 6031,
+        "subset_id": 61,
+        "filename": "00000006031.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006031.jpg?alt=media&token=8668678e-9379-482c-a9c5-495628083607",
+        "to_delete": false
+    },
+    {
+        "id": 6032,
+        "subset_id": 61,
+        "filename": "00000006032.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006032.jpg?alt=media&token=d31eed7a-ca57-4acd-b328-ab0a3470301b",
+        "to_delete": true
+    },
+    {
+        "id": 6033,
+        "subset_id": 61,
+        "filename": "00000006033.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006033.jpg?alt=media&token=823cd4a8-f619-44c2-9e67-2bb5135f4b2d",
+        "to_delete": false
+    },
+    {
+        "id": 6034,
+        "subset_id": 61,
+        "filename": "00000006034.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006034.jpg?alt=media&token=cc26d501-18dd-4d61-82d5-35f4e9f7cea8",
+        "to_delete": true
+    },
+    {
+        "id": 6035,
+        "subset_id": 61,
+        "filename": "00000006035.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006035.jpg?alt=media&token=f32d8f80-e171-4944-b05f-4a9fe2f09eec",
+        "to_delete": false
+    },
+    {
+        "id": 6036,
+        "subset_id": 61,
+        "filename": "00000006036.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006036.jpg?alt=media&token=56ebaf7d-f57f-461b-91e4-dbb604c77c2b",
+        "to_delete": false
+    },
+    {
+        "id": 6037,
+        "subset_id": 61,
+        "filename": "00000006037.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006037.jpg?alt=media&token=cdcd6799-4122-4ed5-b8a7-ccfe5a2f2834",
+        "to_delete": false
+    },
+    {
+        "id": 6038,
+        "subset_id": 61,
+        "filename": "00000006038.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006038.png?alt=media&token=657335b8-146d-4312-a03e-0530e8bd6939",
+        "to_delete": true
+    },
+    {
+        "id": 6039,
+        "subset_id": 61,
+        "filename": "00000006039.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006039.jpg?alt=media&token=7980e153-56ed-498c-975d-4e2d669907e2",
+        "to_delete": false
+    },
+    {
+        "id": 6040,
+        "subset_id": 61,
+        "filename": "00000006040.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006040.jpg?alt=media&token=24523862-b56a-4f06-9178-1637bcbe6dd4",
+        "to_delete": false
+    },
+    {
+        "id": 6041,
+        "subset_id": 61,
+        "filename": "00000006041.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006041.jpg?alt=media&token=82993d11-2189-4b1f-96ef-701ccdecf465",
+        "to_delete": false
+    },
+    {
+        "id": 6042,
+        "subset_id": 61,
+        "filename": "00000006042.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006042.jpg?alt=media&token=76454829-5452-435f-9804-4262c5ca7104",
+        "to_delete": false
+    },
+    {
+        "id": 6043,
+        "subset_id": 61,
+        "filename": "00000006043.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006043.jpg?alt=media&token=401a5bd8-2f40-4af6-aa67-b4543136b80f",
+        "to_delete": false
+    },
+    {
+        "id": 6044,
+        "subset_id": 61,
+        "filename": "00000006044.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006044.jpg?alt=media&token=bc04e1b6-4bdf-4313-9b02-a56949e58357",
+        "to_delete": false
+    },
+    {
+        "id": 6045,
+        "subset_id": 61,
+        "filename": "00000006045.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006045.jpg?alt=media&token=b09eb5b3-f90e-466f-9033-21499a352605",
+        "to_delete": false
+    },
+    {
+        "id": 6046,
+        "subset_id": 61,
+        "filename": "00000006046.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006046.jpg?alt=media&token=f74fd08b-0c6a-4753-a6b0-87c6731b8722",
+        "to_delete": false
+    },
+    {
+        "id": 6047,
+        "subset_id": 61,
+        "filename": "00000006047.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006047.jpg?alt=media&token=e2b4a1cc-057d-4135-ba9e-59d6c8cd23d1",
+        "to_delete": false
+    },
+    {
+        "id": 6048,
+        "subset_id": 61,
+        "filename": "00000006048.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006048.jpg?alt=media&token=471f5cbd-ce0d-42f1-8393-0eb80c970cf6",
+        "to_delete": false
+    },
+    {
+        "id": 6049,
+        "subset_id": 61,
+        "filename": "00000006049.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006049.jpg?alt=media&token=a0b502f7-0fc6-4fa1-9845-fd05443a564c",
+        "to_delete": false
+    },
+    {
+        "id": 6050,
+        "subset_id": 61,
+        "filename": "00000006050.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006050.png?alt=media&token=6dd5b7ca-e349-460f-9e1c-40c6a259c073",
+        "to_delete": false
+    },
+    {
+        "id": 6051,
+        "subset_id": 61,
+        "filename": "00000006051.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006051.jpg?alt=media&token=d2bd7ee1-40e6-4086-8438-2bc6a75961e4",
+        "to_delete": false
+    },
+    {
+        "id": 6052,
+        "subset_id": 61,
+        "filename": "00000006052.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006052.jpg?alt=media&token=c90a1edb-98bf-49b1-a482-38fcc8521edc",
+        "to_delete": false
+    },
+    {
+        "id": 6053,
+        "subset_id": 61,
+        "filename": "00000006053.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006053.jpg?alt=media&token=9e7d979b-f331-46fb-8e5a-d8e3e9b637e9",
+        "to_delete": true
+    },
+    {
+        "id": 6054,
+        "subset_id": 61,
+        "filename": "00000006054.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006054.jpg?alt=media&token=1b63622d-e085-473b-896b-79c951eb4010",
+        "to_delete": false
+    },
+    {
+        "id": 6055,
+        "subset_id": 61,
+        "filename": "00000006055.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006055.jpg?alt=media&token=c51c653f-69e3-4ea7-9e17-294fc895091e",
+        "to_delete": false
+    },
+    {
+        "id": 6056,
+        "subset_id": 61,
+        "filename": "00000006056.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006056.jpg?alt=media&token=35de2ab9-02a7-4b7b-bb5e-d6d1a69ba7c8",
+        "to_delete": false
+    },
+    {
+        "id": 6057,
+        "subset_id": 61,
+        "filename": "00000006057.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006057.jpg?alt=media&token=af043d78-6c05-4564-ac17-014e7b5a92c9",
+        "to_delete": true
+    },
+    {
+        "id": 6058,
+        "subset_id": 61,
+        "filename": "00000006058.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006058.jpg?alt=media&token=329af8b2-69b1-4ebc-9540-bef397ce937a",
+        "to_delete": false
+    },
+    {
+        "id": 6059,
+        "subset_id": 61,
+        "filename": "00000006059.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006059.jpg?alt=media&token=a7250431-5a9b-4633-975f-c6bdad0de75e",
+        "to_delete": true
+    },
+    {
+        "id": 6060,
+        "subset_id": 61,
+        "filename": "00000006060.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006060.jpg?alt=media&token=be9ebefc-a8ec-4cb4-aefc-c735d1157bb9",
+        "to_delete": true
+    },
+    {
+        "id": 6061,
+        "subset_id": 61,
+        "filename": "00000006061.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006061.jpg?alt=media&token=f748a38f-23be-464b-a134-72e9b5136a87",
+        "to_delete": true
+    },
+    {
+        "id": 6062,
+        "subset_id": 61,
+        "filename": "00000006062.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006062.jpg?alt=media&token=ce145ff3-d1b3-4c40-8027-f95c7258b3a1",
+        "to_delete": false
+    },
+    {
+        "id": 6063,
+        "subset_id": 61,
+        "filename": "00000006063.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006063.jpg?alt=media&token=b79cc175-5c5a-4170-8116-88812aa3f8ef",
+        "to_delete": false
+    },
+    {
+        "id": 6064,
+        "subset_id": 61,
+        "filename": "00000006064.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006064.jpg?alt=media&token=39b44908-a5ca-4411-ac68-96081ca2ef24",
+        "to_delete": false
+    },
+    {
+        "id": 6065,
+        "subset_id": 61,
+        "filename": "00000006065.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006065.jpg?alt=media&token=09ca554d-1125-4e66-9096-5197ad9fceb0",
+        "to_delete": false
+    },
+    {
+        "id": 6066,
+        "subset_id": 61,
+        "filename": "00000006066.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006066.jpg?alt=media&token=da3b4aeb-964e-4bca-b5d8-53d52b87eff5",
+        "to_delete": false
+    },
+    {
+        "id": 6067,
+        "subset_id": 61,
+        "filename": "00000006067.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006067.jpg?alt=media&token=2169cc60-aaed-47ba-8a62-e259615940d6",
+        "to_delete": false
+    },
+    {
+        "id": 6068,
+        "subset_id": 61,
+        "filename": "00000006068.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006068.jpg?alt=media&token=347718af-ecec-4d68-b970-1c297d54e2af",
+        "to_delete": true
+    },
+    {
+        "id": 6069,
+        "subset_id": 61,
+        "filename": "00000006069.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006069.jpg?alt=media&token=a5ccafd2-74e9-44b2-8cf3-a04abbdcd96b",
+        "to_delete": true
+    },
+    {
+        "id": 6070,
+        "subset_id": 61,
+        "filename": "00000006070.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006070.jpg?alt=media&token=eac3cce8-bdea-460a-b89a-54727aedd222",
+        "to_delete": false
+    },
+    {
+        "id": 6071,
+        "subset_id": 61,
+        "filename": "00000006071.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006071.jpg?alt=media&token=89fe2602-2a05-442b-9cdc-c25cdcc42e86",
+        "to_delete": false
+    },
+    {
+        "id": 6072,
+        "subset_id": 61,
+        "filename": "00000006072.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006072.jpg?alt=media&token=5464cd8f-e406-41a5-8bf4-3d6a29ca6134",
+        "to_delete": false
+    },
+    {
+        "id": 6073,
+        "subset_id": 61,
+        "filename": "00000006073.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006073.jpg?alt=media&token=c288f854-6305-4741-97aa-2e7a43c10ca9",
+        "to_delete": false
+    },
+    {
+        "id": 6074,
+        "subset_id": 61,
+        "filename": "00000006074.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006074.jpg?alt=media&token=af6a27cc-6095-4227-9657-6133a658aadb",
+        "to_delete": false
+    },
+    {
+        "id": 6075,
+        "subset_id": 61,
+        "filename": "00000006075.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006075.jpg?alt=media&token=81809ca4-f092-4efa-a831-9508f24c3655",
+        "to_delete": true
+    },
+    {
+        "id": 6076,
+        "subset_id": 61,
+        "filename": "00000006076.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006076.jpg?alt=media&token=f9298d21-4472-483b-b4b3-a73ef50a6fa9",
+        "to_delete": false
+    },
+    {
+        "id": 6077,
+        "subset_id": 61,
+        "filename": "00000006077.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006077.jpg?alt=media&token=8b12c319-5810-4c93-99f7-98f9015e024e",
+        "to_delete": false
+    },
+    {
+        "id": 6078,
+        "subset_id": 61,
+        "filename": "00000006078.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006078.jpg?alt=media&token=18a60b0d-c94c-4948-955f-8ddacbf09c79",
+        "to_delete": false
+    },
+    {
+        "id": 6079,
+        "subset_id": 61,
+        "filename": "00000006079.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006079.jpg?alt=media&token=938dfdc5-fea4-42cd-9489-121091ac404e",
+        "to_delete": false
+    },
+    {
+        "id": 6080,
+        "subset_id": 61,
+        "filename": "00000006080.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006080.jpg?alt=media&token=d7d46c63-cf59-44e7-84d6-ecf21a82bd74",
+        "to_delete": true
+    },
+    {
+        "id": 6081,
+        "subset_id": 61,
+        "filename": "00000006081.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006081.png?alt=media&token=c49b0028-a0aa-40ce-b677-8ccfb84c848c",
+        "to_delete": false
+    },
+    {
+        "id": 6082,
+        "subset_id": 61,
+        "filename": "00000006082.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006082.jpg?alt=media&token=b4dcfef3-68b7-440d-a8ad-200dfdd657b4",
+        "to_delete": false
+    },
+    {
+        "id": 6083,
+        "subset_id": 61,
+        "filename": "00000006083.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006083.jpg?alt=media&token=9b284b9f-5127-457a-ad3c-59bead48b953",
+        "to_delete": false
+    },
+    {
+        "id": 6084,
+        "subset_id": 61,
+        "filename": "00000006084.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006084.jpg?alt=media&token=a80ffbe0-4bc9-4d8c-b172-718ff0339e12",
+        "to_delete": true
+    },
+    {
+        "id": 6085,
+        "subset_id": 61,
+        "filename": "00000006085.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006085.jpg?alt=media&token=c130d7d3-665d-4bb6-a687-af4b8f5b2f42",
+        "to_delete": false
+    },
+    {
+        "id": 6086,
+        "subset_id": 61,
+        "filename": "00000006086.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006086.jpg?alt=media&token=5610ba30-d476-4a5d-8103-057deac998fa",
+        "to_delete": false
+    },
+    {
+        "id": 6087,
+        "subset_id": 61,
+        "filename": "00000006087.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006087.jpg?alt=media&token=3b7d95bc-a604-4855-bfb0-13f086146e96",
+        "to_delete": false
+    },
+    {
+        "id": 6088,
+        "subset_id": 61,
+        "filename": "00000006088.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006088.jpg?alt=media&token=c39fb93b-0736-4c9e-bc7e-ed4469c90ae8",
+        "to_delete": false
+    },
+    {
+        "id": 6089,
+        "subset_id": 61,
+        "filename": "00000006089.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006089.jpg?alt=media&token=97719a99-c394-4832-9b17-d9d96cbecf6b",
+        "to_delete": false
+    },
+    {
+        "id": 6090,
+        "subset_id": 61,
+        "filename": "00000006090.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006090.jpg?alt=media&token=51a6b62f-7f6c-456e-973b-3a2c01f5d942",
+        "to_delete": false
+    },
+    {
+        "id": 6091,
+        "subset_id": 61,
+        "filename": "00000006091.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006091.jpg?alt=media&token=b4a5fe50-da01-4c80-822a-a582afcd4cde",
+        "to_delete": true
+    },
+    {
+        "id": 6092,
+        "subset_id": 61,
+        "filename": "00000006092.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006092.jpg?alt=media&token=0829d60a-9b55-4250-8d1b-185cca2757d1",
+        "to_delete": false
+    },
+    {
+        "id": 6093,
+        "subset_id": 61,
+        "filename": "00000006093.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006093.png?alt=media&token=dc2cde81-a32e-4e21-aefb-74ddcdea820b",
+        "to_delete": false
+    },
+    {
+        "id": 6094,
+        "subset_id": 61,
+        "filename": "00000006094.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006094.jpg?alt=media&token=02700ea2-5365-48c8-8b28-ed6d95a3c116",
+        "to_delete": true
+    },
+    {
+        "id": 6095,
+        "subset_id": 61,
+        "filename": "00000006095.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006095.jpg?alt=media&token=a765e08f-225c-46f9-996b-4f4dd02a48a6",
+        "to_delete": false
+    },
+    {
+        "id": 6096,
+        "subset_id": 61,
+        "filename": "00000006096.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006096.jpg?alt=media&token=68b14b5e-794a-4941-92aa-234f7e22f533",
+        "to_delete": false
+    },
+    {
+        "id": 6097,
+        "subset_id": 61,
+        "filename": "00000006097.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006097.jpg?alt=media&token=ccaeb516-54bf-4d41-ac45-a7b98c092689",
+        "to_delete": false
+    },
+    {
+        "id": 6098,
+        "subset_id": 61,
+        "filename": "00000006098.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006098.jpg?alt=media&token=561ccd0c-d7db-4a41-a100-cd408650f462",
+        "to_delete": true
+    },
+    {
+        "id": 6099,
+        "subset_id": 61,
+        "filename": "00000006099.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000006099.jpg?alt=media&token=5ca6ab15-7116-4b6d-8737-e5f1f783a4af",
+        "to_delete": false
+    },
+    {
+        "id": 4200,
+        "subset_id": 43,
+        "filename": "00000004200.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004200.jpg?alt=media&token=8fdccfc3-0aaf-46ce-856b-787f2209b2a5",
+        "to_delete": true
+    },
+    {
+        "id": 4201,
+        "subset_id": 43,
+        "filename": "00000004201.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004201.jpg?alt=media&token=9c75c13d-5e6f-4673-a272-7cfe73b58dd7",
+        "to_delete": false
+    },
+    {
+        "id": 4202,
+        "subset_id": 43,
+        "filename": "00000004202.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004202.jpg?alt=media&token=e9ecc8dd-83bc-4c7f-b635-62bf0119687b",
+        "to_delete": true
+    },
+    {
+        "id": 4203,
+        "subset_id": 43,
+        "filename": "00000004203.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004203.jpg?alt=media&token=c22e181a-4515-4594-8054-74e27f8e2f83",
+        "to_delete": true
+    },
+    {
+        "id": 4204,
+        "subset_id": 43,
+        "filename": "00000004204.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004204.jpg?alt=media&token=a0ba48e9-c7e9-4dcd-9d21-43010b8d46bc",
+        "to_delete": false
+    },
+    {
+        "id": 4205,
+        "subset_id": 43,
+        "filename": "00000004205.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004205.jpg?alt=media&token=64863881-ff6d-41bd-a6ff-e392b022ae12",
+        "to_delete": false
+    },
+    {
+        "id": 4206,
+        "subset_id": 43,
+        "filename": "00000004206.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004206.jpg?alt=media&token=20e77067-fcb9-47bc-8c40-794dc82a0d0a",
+        "to_delete": false
+    },
+    {
+        "id": 4207,
+        "subset_id": 43,
+        "filename": "00000004207.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004207.jpg?alt=media&token=2cfbf66b-b7a0-4da0-8afa-f3e0f898a416",
+        "to_delete": false
+    },
+    {
+        "id": 4208,
+        "subset_id": 43,
+        "filename": "00000004208.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004208.jpg?alt=media&token=646368fe-5884-46ff-8e22-c5a13b08aed4",
+        "to_delete": false
+    },
+    {
+        "id": 4209,
+        "subset_id": 43,
+        "filename": "00000004209.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004209.jpg?alt=media&token=77ff7bbc-aeba-4b12-bdfe-3d3cc49067ec",
+        "to_delete": false
+    },
+    {
+        "id": 4210,
+        "subset_id": 43,
+        "filename": "00000004210.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004210.jpg?alt=media&token=95390de9-be0a-4ba2-b4d8-b2d658204e30",
+        "to_delete": false
+    },
+    {
+        "id": 4211,
+        "subset_id": 43,
+        "filename": "00000004211.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004211.jpg?alt=media&token=4776dde0-3318-46c8-b828-fd10b7d3502f",
+        "to_delete": false
+    },
+    {
+        "id": 4212,
+        "subset_id": 43,
+        "filename": "00000004212.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004212.jpg?alt=media&token=d6b91afd-e79e-4368-a64d-1612055a59b0",
+        "to_delete": true
+    },
+    {
+        "id": 4213,
+        "subset_id": 43,
+        "filename": "00000004213.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004213.jpg?alt=media&token=f2a26a0b-8e9b-4e27-a7e2-6dfa2ac3bee5",
+        "to_delete": false
+    },
+    {
+        "id": 4214,
+        "subset_id": 43,
+        "filename": "00000004214.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004214.jpg?alt=media&token=ef4ce877-ad4e-4900-8347-315defb50f75",
+        "to_delete": false
+    },
+    {
+        "id": 4215,
+        "subset_id": 43,
+        "filename": "00000004215.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004215.jpg?alt=media&token=fe669b2c-f0ef-4492-ba62-8185ab073616",
+        "to_delete": true
+    },
+    {
+        "id": 4216,
+        "subset_id": 43,
+        "filename": "00000004216.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004216.jpg?alt=media&token=6fc70598-849e-4469-bf93-ab537f0eba1b",
+        "to_delete": false
+    },
+    {
+        "id": 4217,
+        "subset_id": 43,
+        "filename": "00000004217.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004217.jpg?alt=media&token=e538e726-2a00-4f49-a7ba-acb4e049c145",
+        "to_delete": true
+    },
+    {
+        "id": 4218,
+        "subset_id": 43,
+        "filename": "00000004218.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004218.jpg?alt=media&token=5ff99ef0-f746-4947-8978-8b4b4e1e9909",
+        "to_delete": false
+    },
+    {
+        "id": 4219,
+        "subset_id": 43,
+        "filename": "00000004219.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004219.jpg?alt=media&token=1711c10f-2949-4f43-ad18-97b63c8a5f3e",
+        "to_delete": false
+    },
+    {
+        "id": 4220,
+        "subset_id": 43,
+        "filename": "00000004220.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004220.jpg?alt=media&token=bcb5fbdb-0d69-4d15-804d-7044714c8ffd",
+        "to_delete": false
+    },
+    {
+        "id": 4221,
+        "subset_id": 43,
+        "filename": "00000004221.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004221.jpg?alt=media&token=df332115-e912-4a65-961a-30d28d9fb493",
+        "to_delete": true
+    },
+    {
+        "id": 4222,
+        "subset_id": 43,
+        "filename": "00000004222.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004222.jpg?alt=media&token=bcb6a962-81db-4a38-b40d-038ac5a96cc9",
+        "to_delete": false
+    },
+    {
+        "id": 4223,
+        "subset_id": 43,
+        "filename": "00000004223.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004223.jpg?alt=media&token=596d46fb-4acf-4d15-b5a8-6b28b48bf3a4",
+        "to_delete": false
+    },
+    {
+        "id": 4224,
+        "subset_id": 43,
+        "filename": "00000004224.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004224.jpg?alt=media&token=cb429311-20bd-4cbb-8f63-637a7b5a0ac6",
+        "to_delete": false
+    },
+    {
+        "id": 4225,
+        "subset_id": 43,
+        "filename": "00000004225.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004225.jpg?alt=media&token=b0dfac71-8956-4e2d-8108-e8edda6d7366",
+        "to_delete": false
+    },
+    {
+        "id": 4226,
+        "subset_id": 43,
+        "filename": "00000004226.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004226.jpg?alt=media&token=c3734c52-1ce9-45fc-8ed5-96eb77e533f0",
+        "to_delete": false
+    },
+    {
+        "id": 4227,
+        "subset_id": 43,
+        "filename": "00000004227.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004227.jpg?alt=media&token=216bf99b-67d2-4aa3-8b55-f7793d3be951",
+        "to_delete": false
+    },
+    {
+        "id": 4228,
+        "subset_id": 43,
+        "filename": "00000004228.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004228.png?alt=media&token=15babe3a-d8fd-422e-8d52-f6ee3d846af8",
+        "to_delete": false
+    },
+    {
+        "id": 4229,
+        "subset_id": 43,
+        "filename": "00000004229.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004229.jpg?alt=media&token=7d27a1ed-7478-45c5-a2e9-f224d38df560",
+        "to_delete": true
+    },
+    {
+        "id": 4230,
+        "subset_id": 43,
+        "filename": "00000004230.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004230.jpg?alt=media&token=19e5a09a-2e51-4b55-9c1d-d83e11d55748",
+        "to_delete": false
+    },
+    {
+        "id": 4231,
+        "subset_id": 43,
+        "filename": "00000004231.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004231.jpg?alt=media&token=31e01f0f-ef58-4192-943b-dcbaecdbb6e9",
+        "to_delete": true
+    },
+    {
+        "id": 4232,
+        "subset_id": 43,
+        "filename": "00000004232.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004232.jpg?alt=media&token=be69c4bf-d2d9-46c6-bad8-9d8f285edf1e",
+        "to_delete": false
+    },
+    {
+        "id": 4233,
+        "subset_id": 43,
+        "filename": "00000004233.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004233.jpg?alt=media&token=f85cad7c-c0b4-4a5f-b295-6553055e732e",
+        "to_delete": false
+    },
+    {
+        "id": 4234,
+        "subset_id": 43,
+        "filename": "00000004234.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004234.jpg?alt=media&token=6f75c78b-df1b-4efc-a133-820f37941f93",
+        "to_delete": false
+    },
+    {
+        "id": 4235,
+        "subset_id": 43,
+        "filename": "00000004235.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004235.jpg?alt=media&token=04f2c096-2494-4588-950a-416cbd6d505d",
+        "to_delete": false
+    },
+    {
+        "id": 4236,
+        "subset_id": 43,
+        "filename": "00000004236.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004236.jpg?alt=media&token=80315adb-1142-41c7-90c1-a5239620548b",
+        "to_delete": false
+    },
+    {
+        "id": 4237,
+        "subset_id": 43,
+        "filename": "00000004237.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004237.jpg?alt=media&token=e70a311f-5908-4f1d-8c81-682e1099bc63",
+        "to_delete": false
+    },
+    {
+        "id": 4238,
+        "subset_id": 43,
+        "filename": "00000004238.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004238.jpg?alt=media&token=f41855e5-0c0b-4bb6-acfa-9548060c5d30",
+        "to_delete": false
+    },
+    {
+        "id": 4239,
+        "subset_id": 43,
+        "filename": "00000004239.jpeg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004239.jpeg?alt=media&token=fc440458-f748-462f-adc0-1ce122172045",
+        "to_delete": false
+    },
+    {
+        "id": 4240,
+        "subset_id": 43,
+        "filename": "00000004240.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004240.jpg?alt=media&token=8ba106ba-0fa8-4db7-b876-8a7d16e34973",
+        "to_delete": true
+    },
+    {
+        "id": 4241,
+        "subset_id": 43,
+        "filename": "00000004241.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004241.jpg?alt=media&token=c171a71d-a22a-43d1-a077-292456fd21b8",
+        "to_delete": false
+    },
+    {
+        "id": 4242,
+        "subset_id": 43,
+        "filename": "00000004242.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004242.jpg?alt=media&token=707302c0-f6ad-48c5-b2b5-327333fb0c3c",
+        "to_delete": false
+    },
+    {
+        "id": 4243,
+        "subset_id": 43,
+        "filename": "00000004243.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004243.jpg?alt=media&token=5ec59ccf-0534-4d76-910c-3005e9382d13",
+        "to_delete": false
+    },
+    {
+        "id": 4244,
+        "subset_id": 43,
+        "filename": "00000004244.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004244.jpg?alt=media&token=561f0435-450d-4586-a041-a6b6d9b9a720",
+        "to_delete": false
+    },
+    {
+        "id": 4245,
+        "subset_id": 43,
+        "filename": "00000004245.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004245.jpg?alt=media&token=2b257b68-f168-4242-804d-9a091c783620",
+        "to_delete": false
+    },
+    {
+        "id": 4246,
+        "subset_id": 43,
+        "filename": "00000004246.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004246.jpg?alt=media&token=b85f9fdd-834d-4e92-947b-0721d83e57a1",
+        "to_delete": true
+    },
+    {
+        "id": 4247,
+        "subset_id": 43,
+        "filename": "00000004247.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004247.jpg?alt=media&token=5e002843-ae3d-49e2-a27b-df9c2748d4fe",
+        "to_delete": false
+    },
+    {
+        "id": 4248,
+        "subset_id": 43,
+        "filename": "00000004248.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004248.jpg?alt=media&token=0e818ee6-15b7-4b6a-bd43-121ab9fcbc9f",
+        "to_delete": false
+    },
+    {
+        "id": 4249,
+        "subset_id": 43,
+        "filename": "00000004249.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004249.jpg?alt=media&token=32dd21ba-47b5-41b4-a3d9-9497c9d17f4f",
+        "to_delete": false
+    },
+    {
+        "id": 4250,
+        "subset_id": 43,
+        "filename": "00000004250.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004250.jpg?alt=media&token=6173eb84-e672-47e9-bab6-9da92b25abbc",
+        "to_delete": false
+    },
+    {
+        "id": 4251,
+        "subset_id": 43,
+        "filename": "00000004251.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004251.jpg?alt=media&token=59fcba2b-6cb6-47eb-b44f-b7eaa81af441",
+        "to_delete": false
+    },
+    {
+        "id": 4252,
+        "subset_id": 43,
+        "filename": "00000004252.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004252.jpg?alt=media&token=b7cbcc23-c94c-49b1-a97d-e883f28bc04c",
+        "to_delete": false
+    },
+    {
+        "id": 4253,
+        "subset_id": 43,
+        "filename": "00000004253.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004253.jpg?alt=media&token=abb26947-c944-4f51-8067-ccfbd0c56a42",
+        "to_delete": false
+    },
+    {
+        "id": 4254,
+        "subset_id": 43,
+        "filename": "00000004254.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004254.jpg?alt=media&token=c45ad260-8aff-41d1-8cc1-c2ac082a995e",
+        "to_delete": false
+    },
+    {
+        "id": 4255,
+        "subset_id": 43,
+        "filename": "00000004255.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004255.jpg?alt=media&token=416550ce-0adb-42e9-b142-9b47901bf019",
+        "to_delete": true
+    },
+    {
+        "id": 4256,
+        "subset_id": 43,
+        "filename": "00000004256.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004256.jpg?alt=media&token=12bfa7b3-73ae-441e-bc21-a1ef2e84fec5",
+        "to_delete": false
+    },
+    {
+        "id": 4257,
+        "subset_id": 43,
+        "filename": "00000004257.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004257.jpg?alt=media&token=bd2d26e3-131f-4718-bdd9-4a7f9f0e0044",
+        "to_delete": false
+    },
+    {
+        "id": 4258,
+        "subset_id": 43,
+        "filename": "00000004258.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004258.jpg?alt=media&token=a028514f-118c-4058-8998-325fcd5e4be9",
+        "to_delete": false
+    },
+    {
+        "id": 4259,
+        "subset_id": 43,
+        "filename": "00000004259.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004259.jpg?alt=media&token=f6aabe2f-e605-4a0c-8864-8cf6d854edee",
+        "to_delete": true
+    },
+    {
+        "id": 4260,
+        "subset_id": 43,
+        "filename": "00000004260.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004260.jpg?alt=media&token=0adf1437-9c1e-499a-887d-5edb92a9fa25",
+        "to_delete": false
+    },
+    {
+        "id": 4261,
+        "subset_id": 43,
+        "filename": "00000004261.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004261.jpg?alt=media&token=397e316b-74d3-4d45-b387-8d6f7bf5e7bd",
+        "to_delete": false
+    },
+    {
+        "id": 4262,
+        "subset_id": 43,
+        "filename": "00000004262.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004262.jpg?alt=media&token=b3f29cb1-6f3c-4935-8592-55a925368821",
+        "to_delete": false
+    },
+    {
+        "id": 4263,
+        "subset_id": 43,
+        "filename": "00000004263.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004263.jpg?alt=media&token=b2a7791a-c2d7-4ae8-a2a2-e4ce4f820f29",
+        "to_delete": false
+    },
+    {
+        "id": 4264,
+        "subset_id": 43,
+        "filename": "00000004264.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004264.jpg?alt=media&token=5d3985f3-0a55-44f3-98e9-27c9c4ed5a8c",
+        "to_delete": false
+    },
+    {
+        "id": 4265,
+        "subset_id": 43,
+        "filename": "00000004265.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004265.jpg?alt=media&token=10e9b232-dba5-4ee6-8fc3-2db5f95cd52b",
+        "to_delete": false
+    },
+    {
+        "id": 4266,
+        "subset_id": 43,
+        "filename": "00000004266.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004266.jpg?alt=media&token=e28b7d53-7413-43a8-ab48-c7c1b3636035",
+        "to_delete": false
+    },
+    {
+        "id": 4267,
+        "subset_id": 43,
+        "filename": "00000004267.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004267.jpg?alt=media&token=0a4163f9-2ab6-49ab-8574-3efe866ebd3c",
+        "to_delete": false
+    },
+    {
+        "id": 4268,
+        "subset_id": 43,
+        "filename": "00000004268.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004268.jpg?alt=media&token=7189f1e0-fd7c-4377-a1de-f7e5f930ae6a",
+        "to_delete": false
+    },
+    {
+        "id": 4269,
+        "subset_id": 43,
+        "filename": "00000004269.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004269.jpg?alt=media&token=aefaab30-61d3-4407-9805-3528aac4746f",
+        "to_delete": false
+    },
+    {
+        "id": 4270,
+        "subset_id": 43,
+        "filename": "00000004270.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004270.jpg?alt=media&token=2c66ad1f-33b2-4feb-8173-c65cc8664a06",
+        "to_delete": false
+    },
+    {
+        "id": 4271,
+        "subset_id": 43,
+        "filename": "00000004271.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004271.jpg?alt=media&token=48bbeaee-2a8e-47e3-b5c3-9dc4ca6cdca7",
+        "to_delete": false
+    },
+    {
+        "id": 4272,
+        "subset_id": 43,
+        "filename": "00000004272.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004272.jpg?alt=media&token=283dc598-afb6-4092-acef-294f4531135b",
+        "to_delete": true
+    },
+    {
+        "id": 4273,
+        "subset_id": 43,
+        "filename": "00000004273.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004273.jpg?alt=media&token=ff40e0b8-6346-4a8a-a7c4-ba3248ad8a3e",
+        "to_delete": false
+    },
+    {
+        "id": 4274,
+        "subset_id": 43,
+        "filename": "00000004274.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004274.jpg?alt=media&token=b373e798-577f-435d-ac30-f7327b018328",
+        "to_delete": false
+    },
+    {
+        "id": 4275,
+        "subset_id": 43,
+        "filename": "00000004275.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004275.jpg?alt=media&token=03d32dd7-86ed-41f7-b250-20b812696c32",
+        "to_delete": false
+    },
+    {
+        "id": 4276,
+        "subset_id": 43,
+        "filename": "00000004276.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004276.jpg?alt=media&token=4d38621c-f213-4202-9323-e087cf996789",
+        "to_delete": false
+    },
+    {
+        "id": 4277,
+        "subset_id": 43,
+        "filename": "00000004277.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004277.jpg?alt=media&token=2f48bfb0-12ae-4738-b04a-bd1b33cb4b11",
+        "to_delete": true
+    },
+    {
+        "id": 4278,
+        "subset_id": 43,
+        "filename": "00000004278.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004278.jpg?alt=media&token=0b0da6b5-c07b-4f00-a9dd-a6166e0a4ff0",
+        "to_delete": true
+    },
+    {
+        "id": 4279,
+        "subset_id": 43,
+        "filename": "00000004279.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004279.jpg?alt=media&token=df5b4405-b080-4b7a-a167-049e2c48e769",
+        "to_delete": true
+    },
+    {
+        "id": 4280,
+        "subset_id": 43,
+        "filename": "00000004280.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004280.jpg?alt=media&token=61d5ac5a-df6f-494d-8fe7-617ea27ee319",
+        "to_delete": false
+    },
+    {
+        "id": 4281,
+        "subset_id": 43,
+        "filename": "00000004281.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004281.png?alt=media&token=01a45ec9-434f-4301-a9bb-ecfc4fdf0221",
+        "to_delete": false
+    },
+    {
+        "id": 4282,
+        "subset_id": 43,
+        "filename": "00000004282.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004282.jpg?alt=media&token=5087519b-fb53-418d-abf8-1c441f06e73a",
+        "to_delete": false
+    },
+    {
+        "id": 4283,
+        "subset_id": 43,
+        "filename": "00000004283.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004283.jpg?alt=media&token=74fa8283-5760-444f-9717-6d56813a8752",
+        "to_delete": false
+    },
+    {
+        "id": 4284,
+        "subset_id": 43,
+        "filename": "00000004284.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004284.jpg?alt=media&token=5aa75312-8e5a-4b95-9344-ec53e71f65a4",
+        "to_delete": false
+    },
+    {
+        "id": 4285,
+        "subset_id": 43,
+        "filename": "00000004285.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004285.jpg?alt=media&token=8a5aea01-b0b2-4fc6-ada5-8158fd57f96e",
+        "to_delete": false
+    },
+    {
+        "id": 4286,
+        "subset_id": 43,
+        "filename": "00000004286.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004286.jpg?alt=media&token=b4b09259-b124-41d5-b349-b5c97e91c53a",
+        "to_delete": false
+    },
+    {
+        "id": 4287,
+        "subset_id": 43,
+        "filename": "00000004287.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004287.jpg?alt=media&token=1a230e1b-fae1-4456-97f1-1aac4c717595",
+        "to_delete": true
+    },
+    {
+        "id": 4288,
+        "subset_id": 43,
+        "filename": "00000004288.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004288.jpg?alt=media&token=86bd6a42-0562-4084-9085-8b93ee4bb23f",
+        "to_delete": true
+    },
+    {
+        "id": 4289,
+        "subset_id": 43,
+        "filename": "00000004289.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004289.jpg?alt=media&token=4fdd5149-1a8a-45d8-8a35-2c1c93fd193b",
+        "to_delete": false
+    },
+    {
+        "id": 4290,
+        "subset_id": 43,
+        "filename": "00000004290.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004290.jpg?alt=media&token=62eeb315-d762-4712-a1b5-8eac6819cecc",
+        "to_delete": false
+    },
+    {
+        "id": 4291,
+        "subset_id": 43,
+        "filename": "00000004291.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004291.jpg?alt=media&token=c8f5aba7-4464-4ae3-91ff-91d34d24904a",
+        "to_delete": false
+    },
+    {
+        "id": 4292,
+        "subset_id": 43,
+        "filename": "00000004292.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004292.jpg?alt=media&token=049823cb-1688-4b31-81e2-376f62252818",
+        "to_delete": false
+    },
+    {
+        "id": 4293,
+        "subset_id": 43,
+        "filename": "00000004293.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004293.png?alt=media&token=6d194d28-4c68-4a23-8ba2-fef2e7a877c2",
+        "to_delete": true
+    },
+    {
+        "id": 4294,
+        "subset_id": 43,
+        "filename": "00000004294.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004294.jpg?alt=media&token=85be7302-3e10-455f-9895-de9e8ec4bd16",
+        "to_delete": false
+    },
+    {
+        "id": 4295,
+        "subset_id": 43,
+        "filename": "00000004295.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004295.jpg?alt=media&token=cbf8a531-c6ae-4c22-b9ba-1ae0161837aa",
+        "to_delete": false
+    },
+    {
+        "id": 4296,
+        "subset_id": 43,
+        "filename": "00000004296.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004296.jpg?alt=media&token=e92c3d1d-0a33-4aef-9afd-85b4c923f068",
+        "to_delete": false
+    },
+    {
+        "id": 4297,
+        "subset_id": 43,
+        "filename": "00000004297.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004297.jpg?alt=media&token=640fbe9b-7c05-476b-b309-6794e57b4152",
+        "to_delete": false
+    },
+    {
+        "id": 4298,
+        "subset_id": 43,
+        "filename": "00000004298.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004298.jpg?alt=media&token=83941b2c-f372-4943-bc07-38722a8b6713",
+        "to_delete": false
+    },
+    {
+        "id": 4299,
+        "subset_id": 43,
+        "filename": "00000004299.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004299.jpg?alt=media&token=0bd7f998-59a2-4b97-b368-ff942d7af460",
+        "to_delete": true
+    },
+    {
+        "id": 4100,
+        "subset_id": 42,
+        "filename": "00000004100.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004100.jpg?alt=media&token=a184272c-f6c3-49fc-9c76-ede284222376",
+        "to_delete": false
+    },
+    {
+        "id": 4101,
+        "subset_id": 42,
+        "filename": "00000004101.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004101.jpg?alt=media&token=85feaf1b-5e35-4dfc-ba78-81c818b3676e",
+        "to_delete": true
+    },
+    {
+        "id": 4102,
+        "subset_id": 42,
+        "filename": "00000004102.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004102.jpg?alt=media&token=e41379fc-09e8-49e2-b639-db888901f939",
+        "to_delete": false
+    },
+    {
+        "id": 4103,
+        "subset_id": 42,
+        "filename": "00000004103.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004103.jpg?alt=media&token=f6c066ee-00b4-4d47-8c7c-800b73e9364d",
+        "to_delete": false
+    },
+    {
+        "id": 4104,
+        "subset_id": 42,
+        "filename": "00000004104.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004104.jpg?alt=media&token=a0b84405-bacc-4052-816c-d4a9afc50b94",
+        "to_delete": false
+    },
+    {
+        "id": 4105,
+        "subset_id": 42,
+        "filename": "00000004105.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004105.png?alt=media&token=5fe6b3e3-8a5a-40b7-a477-c4e8e02e2cc7",
+        "to_delete": true
+    },
+    {
+        "id": 4106,
+        "subset_id": 42,
+        "filename": "00000004106.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004106.jpg?alt=media&token=7d81aa72-92c9-4cbe-a493-1d6661f7d9b1",
+        "to_delete": true
+    },
+    {
+        "id": 4107,
+        "subset_id": 42,
+        "filename": "00000004107.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004107.jpg?alt=media&token=b7027b86-487e-479c-b740-3d5a05078ffe",
+        "to_delete": false
+    },
+    {
+        "id": 4108,
+        "subset_id": 42,
+        "filename": "00000004108.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004108.jpg?alt=media&token=f00f6693-0b19-4632-81de-f3cd09711a53",
+        "to_delete": false
+    },
+    {
+        "id": 4109,
+        "subset_id": 42,
+        "filename": "00000004109.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004109.jpg?alt=media&token=7822bce0-93fd-444c-bbcc-94793f2527c1",
+        "to_delete": false
+    },
+    {
+        "id": 4110,
+        "subset_id": 42,
+        "filename": "00000004110.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004110.jpg?alt=media&token=6688a124-9022-4f66-934a-1b221e17c9b5",
+        "to_delete": false
+    },
+    {
+        "id": 4111,
+        "subset_id": 42,
+        "filename": "00000004111.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004111.jpg?alt=media&token=19dd2cb6-bb7d-4244-9c27-b39062540f89",
+        "to_delete": false
+    },
+    {
+        "id": 4112,
+        "subset_id": 42,
+        "filename": "00000004112.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004112.jpg?alt=media&token=c0a73046-b9e3-4252-a13e-66d02b202aac",
+        "to_delete": false
+    },
+    {
+        "id": 4113,
+        "subset_id": 42,
+        "filename": "00000004113.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004113.jpg?alt=media&token=058802d9-a4ed-40d2-821c-10f2007ebe17",
+        "to_delete": true
+    },
+    {
+        "id": 4114,
+        "subset_id": 42,
+        "filename": "00000004114.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004114.jpg?alt=media&token=0b7dda23-1de0-42b9-8a2b-b89a4cf03b94",
+        "to_delete": true
+    },
+    {
+        "id": 4115,
+        "subset_id": 42,
+        "filename": "00000004115.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004115.jpg?alt=media&token=e9a9b765-7a3f-4100-a684-43ff75ec0712",
+        "to_delete": false
+    },
+    {
+        "id": 4116,
+        "subset_id": 42,
+        "filename": "00000004116.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004116.jpg?alt=media&token=0d55478e-ef97-4146-b5cc-45de66958c0f",
+        "to_delete": false
+    },
+    {
+        "id": 4117,
+        "subset_id": 42,
+        "filename": "00000004117.jpeg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004117.jpeg?alt=media&token=48f2bcdd-0bfd-4a80-bd6e-2f197cf199e6",
+        "to_delete": false
+    },
+    {
+        "id": 4118,
+        "subset_id": 42,
+        "filename": "00000004118.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004118.jpg?alt=media&token=84db9dd8-143a-4d43-8051-630602405b4f",
+        "to_delete": false
+    },
+    {
+        "id": 4119,
+        "subset_id": 42,
+        "filename": "00000004119.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004119.jpg?alt=media&token=8c7991fc-8e9f-421e-820f-a7926c3113e5",
+        "to_delete": false
+    },
+    {
+        "id": 4120,
+        "subset_id": 42,
+        "filename": "00000004120.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004120.jpg?alt=media&token=af2f0add-89ba-4437-9b51-d8e8681d1b1b",
+        "to_delete": false
+    },
+    {
+        "id": 4121,
+        "subset_id": 42,
+        "filename": "00000004121.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004121.jpg?alt=media&token=99069df2-692f-4362-8a67-9c51fb433835",
+        "to_delete": false
+    },
+    {
+        "id": 4122,
+        "subset_id": 42,
+        "filename": "00000004122.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004122.jpg?alt=media&token=31dd330c-86d0-4640-b6c7-811e94513dee",
+        "to_delete": false
+    },
+    {
+        "id": 4123,
+        "subset_id": 42,
+        "filename": "00000004123.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004123.jpg?alt=media&token=4988cef6-da47-4799-9bcb-ddef461e51f0",
+        "to_delete": false
+    },
+    {
+        "id": 4124,
+        "subset_id": 42,
+        "filename": "00000004124.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004124.jpg?alt=media&token=6b705aeb-6ea6-49e2-a064-d13223fe9d12",
+        "to_delete": true
+    },
+    {
+        "id": 4125,
+        "subset_id": 42,
+        "filename": "00000004125.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004125.jpg?alt=media&token=49415d47-2350-43c2-a53a-fa413b00f29a",
+        "to_delete": true
+    },
+    {
+        "id": 4126,
+        "subset_id": 42,
+        "filename": "00000004126.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004126.jpg?alt=media&token=eeead63e-67ae-404b-9e55-3baf824fbcd1",
+        "to_delete": false
+    },
+    {
+        "id": 4127,
+        "subset_id": 42,
+        "filename": "00000004127.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004127.jpg?alt=media&token=7b2371cf-4d99-4769-a715-5725beb84408",
+        "to_delete": false
+    },
+    {
+        "id": 4128,
+        "subset_id": 42,
+        "filename": "00000004128.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004128.jpg?alt=media&token=5c58f740-24d7-493a-96a8-b2c3e6f5d567",
+        "to_delete": false
+    },
+    {
+        "id": 4129,
+        "subset_id": 42,
+        "filename": "00000004129.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004129.jpg?alt=media&token=0d8f4164-bed3-4bcc-989e-dece34b15e7b",
+        "to_delete": false
+    },
+    {
+        "id": 4130,
+        "subset_id": 42,
+        "filename": "00000004130.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004130.jpg?alt=media&token=99fe9285-0a0f-4ddc-8ee3-72142ead343f",
+        "to_delete": false
+    },
+    {
+        "id": 4131,
+        "subset_id": 42,
+        "filename": "00000004131.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004131.jpg?alt=media&token=f0ba73e8-c107-403f-b384-92045f55432b",
+        "to_delete": false
+    },
+    {
+        "id": 4132,
+        "subset_id": 42,
+        "filename": "00000004132.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004132.jpg?alt=media&token=991bce45-56f1-49f0-8a62-8ba31332e0a0",
+        "to_delete": false
+    },
+    {
+        "id": 4133,
+        "subset_id": 42,
+        "filename": "00000004133.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004133.jpg?alt=media&token=d95fa7d8-2094-4938-b758-9e67b35a9101",
+        "to_delete": false
+    },
+    {
+        "id": 4134,
+        "subset_id": 42,
+        "filename": "00000004134.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004134.jpg?alt=media&token=c269b44a-8e83-4481-a7a8-d8f3f75b04a0",
+        "to_delete": false
+    },
+    {
+        "id": 4135,
+        "subset_id": 42,
+        "filename": "00000004135.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004135.jpg?alt=media&token=86ebc88c-da99-4b4c-948d-1cd77a34b558",
+        "to_delete": false
+    },
+    {
+        "id": 4136,
+        "subset_id": 42,
+        "filename": "00000004136.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004136.jpg?alt=media&token=af8decd3-da01-4974-8b6d-f4ff345dd0b4",
+        "to_delete": false
+    },
+    {
+        "id": 4137,
+        "subset_id": 42,
+        "filename": "00000004137.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004137.jpg?alt=media&token=0e205cc9-1c87-407b-a380-f7bb063f559a",
+        "to_delete": false
+    },
+    {
+        "id": 4138,
+        "subset_id": 42,
+        "filename": "00000004138.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004138.jpg?alt=media&token=0325a71f-034c-40a9-96fd-869f4c7be629",
+        "to_delete": false
+    },
+    {
+        "id": 4139,
+        "subset_id": 42,
+        "filename": "00000004139.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004139.jpg?alt=media&token=afa11064-2fa2-4129-9146-06ca0f5dfc3e",
+        "to_delete": true
+    },
+    {
+        "id": 4140,
+        "subset_id": 42,
+        "filename": "00000004140.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004140.jpg?alt=media&token=78dd4bea-6182-430b-9586-138d14c5c925",
+        "to_delete": false
+    },
+    {
+        "id": 4141,
+        "subset_id": 42,
+        "filename": "00000004141.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004141.jpg?alt=media&token=4bf9ee9d-64f2-4170-a129-7c9618066ecb",
+        "to_delete": false
+    },
+    {
+        "id": 4142,
+        "subset_id": 42,
+        "filename": "00000004142.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004142.jpg?alt=media&token=3d760cb3-f5b1-4266-aad2-8a2d1b84cc2b",
+        "to_delete": false
+    },
+    {
+        "id": 4143,
+        "subset_id": 42,
+        "filename": "00000004143.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004143.png?alt=media&token=ff7974bb-a70a-472a-992e-9ba2f17097ce",
+        "to_delete": false
+    },
+    {
+        "id": 4144,
+        "subset_id": 42,
+        "filename": "00000004144.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004144.jpg?alt=media&token=5f03c573-bc50-49e0-b3a7-ced633cecffb",
+        "to_delete": true
+    },
+    {
+        "id": 4145,
+        "subset_id": 42,
+        "filename": "00000004145.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004145.jpg?alt=media&token=33609152-e5ad-4588-ac0d-8bea00170e2e",
+        "to_delete": false
+    },
+    {
+        "id": 4146,
+        "subset_id": 42,
+        "filename": "00000004146.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004146.jpg?alt=media&token=44da159e-2015-4cdd-9674-d8201b254d87",
+        "to_delete": false
+    },
+    {
+        "id": 4147,
+        "subset_id": 42,
+        "filename": "00000004147.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004147.jpg?alt=media&token=84404c31-a248-4cf4-be35-da0dba1f6a8f",
+        "to_delete": false
+    },
+    {
+        "id": 4148,
+        "subset_id": 42,
+        "filename": "00000004148.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004148.jpg?alt=media&token=cc8ad106-e8a0-4016-af38-e66ba056502e",
+        "to_delete": false
+    },
+    {
+        "id": 4149,
+        "subset_id": 42,
+        "filename": "00000004149.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004149.jpg?alt=media&token=8440c076-ee6b-4b89-9dc3-279b15f46ad7",
+        "to_delete": false
+    },
+    {
+        "id": 4150,
+        "subset_id": 42,
+        "filename": "00000004150.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004150.jpg?alt=media&token=5d09ad16-51e3-4257-a020-998b6d0f8caa",
+        "to_delete": false
+    },
+    {
+        "id": 4151,
+        "subset_id": 42,
+        "filename": "00000004151.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004151.png?alt=media&token=96527853-3259-4a2a-9744-14e5900bc1b7",
+        "to_delete": true
+    },
+    {
+        "id": 4152,
+        "subset_id": 42,
+        "filename": "00000004152.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004152.jpg?alt=media&token=e9746562-5825-4833-ae29-d3adbee018f8",
+        "to_delete": true
+    },
+    {
+        "id": 4153,
+        "subset_id": 42,
+        "filename": "00000004153.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004153.jpg?alt=media&token=101cb87d-ca29-489d-b120-e0ca3abdc68a",
+        "to_delete": false
+    },
+    {
+        "id": 4154,
+        "subset_id": 42,
+        "filename": "00000004154.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004154.jpg?alt=media&token=b64beace-c0df-4d02-8fb8-8cc8dbd021d8",
+        "to_delete": true
+    },
+    {
+        "id": 4155,
+        "subset_id": 42,
+        "filename": "00000004155.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004155.jpg?alt=media&token=4121a225-a0a4-49f6-8663-acc62af6aafd",
+        "to_delete": false
+    },
+    {
+        "id": 4156,
+        "subset_id": 42,
+        "filename": "00000004156.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004156.jpg?alt=media&token=6aa1775a-5ccb-48c7-9bc2-7bd13db52d65",
+        "to_delete": true
+    },
+    {
+        "id": 4157,
+        "subset_id": 42,
+        "filename": "00000004157.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004157.jpg?alt=media&token=56919da2-3dd2-4047-b85e-ab932eed8193",
+        "to_delete": false
+    },
+    {
+        "id": 4158,
+        "subset_id": 42,
+        "filename": "00000004158.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004158.jpg?alt=media&token=54f3acf8-9592-4562-9f40-14740047d16f",
+        "to_delete": false
+    },
+    {
+        "id": 4159,
+        "subset_id": 42,
+        "filename": "00000004159.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004159.jpg?alt=media&token=d98be917-b0fe-4b64-8445-87840e30f527",
+        "to_delete": false
+    },
+    {
+        "id": 4160,
+        "subset_id": 42,
+        "filename": "00000004160.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004160.jpg?alt=media&token=c6153bd1-56fc-4c3a-a006-623274950f4f",
+        "to_delete": false
+    },
+    {
+        "id": 4161,
+        "subset_id": 42,
+        "filename": "00000004161.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004161.jpg?alt=media&token=1894d5b1-c0f4-4a5a-b079-4b39ffbf098b",
+        "to_delete": true
+    },
+    {
+        "id": 4162,
+        "subset_id": 42,
+        "filename": "00000004162.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004162.jpg?alt=media&token=114f5740-3089-4acb-9205-3b4f8b54f589",
+        "to_delete": false
+    },
+    {
+        "id": 4163,
+        "subset_id": 42,
+        "filename": "00000004163.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004163.jpg?alt=media&token=1b0cf8a4-645b-43e6-8065-b58a70cc80b0",
+        "to_delete": false
+    },
+    {
+        "id": 4164,
+        "subset_id": 42,
+        "filename": "00000004164.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004164.jpg?alt=media&token=cb0af12a-0c12-400b-bdf3-36cccd394ffe",
+        "to_delete": false
+    },
+    {
+        "id": 4165,
+        "subset_id": 42,
+        "filename": "00000004165.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004165.jpg?alt=media&token=3ff0f4c6-489b-444f-afa9-af7d4d4fa7da",
+        "to_delete": false
+    },
+    {
+        "id": 4166,
+        "subset_id": 42,
+        "filename": "00000004166.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004166.jpg?alt=media&token=705aacea-c483-4187-a464-015d40657fc0",
+        "to_delete": false
+    },
+    {
+        "id": 4167,
+        "subset_id": 42,
+        "filename": "00000004167.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004167.jpg?alt=media&token=44e369e9-99ae-4e18-ad85-de3d9a486698",
+        "to_delete": true
+    },
+    {
+        "id": 4168,
+        "subset_id": 42,
+        "filename": "00000004168.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004168.jpg?alt=media&token=e0450972-2f97-42ac-9f0c-5ebcde21ed96",
+        "to_delete": false
+    },
+    {
+        "id": 4169,
+        "subset_id": 42,
+        "filename": "00000004169.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004169.jpg?alt=media&token=30b59da2-0fb4-4485-8fb3-b0f74bac0d57",
+        "to_delete": false
+    },
+    {
+        "id": 4170,
+        "subset_id": 42,
+        "filename": "00000004170.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004170.jpg?alt=media&token=9086951e-da06-465d-a4e6-0beead5a23d3",
+        "to_delete": false
+    },
+    {
+        "id": 4171,
+        "subset_id": 42,
+        "filename": "00000004171.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004171.jpg?alt=media&token=4ed1326e-a030-4855-a5f9-7540fac4e649",
+        "to_delete": false
+    },
+    {
+        "id": 4172,
+        "subset_id": 42,
+        "filename": "00000004172.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004172.jpg?alt=media&token=6405d5f1-63ba-494c-bb81-1ea6a20e4208",
+        "to_delete": true
+    },
+    {
+        "id": 4173,
+        "subset_id": 42,
+        "filename": "00000004173.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004173.jpg?alt=media&token=81f9103d-cb30-496b-91c7-d5ab6fc57cc5",
+        "to_delete": false
+    },
+    {
+        "id": 4174,
+        "subset_id": 42,
+        "filename": "00000004174.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004174.jpg?alt=media&token=c0af51a2-91f5-418a-99ed-1ca4d6a6ac43",
+        "to_delete": false
+    },
+    {
+        "id": 4175,
+        "subset_id": 42,
+        "filename": "00000004175.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004175.jpg?alt=media&token=0dd1c21b-3b92-4f1c-8984-f1e0a3a548a0",
+        "to_delete": false
+    },
+    {
+        "id": 4176,
+        "subset_id": 42,
+        "filename": "00000004176.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004176.png?alt=media&token=dbb5ceea-d359-4db9-8803-53c2e85085ec",
+        "to_delete": false
+    },
+    {
+        "id": 4177,
+        "subset_id": 42,
+        "filename": "00000004177.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004177.jpg?alt=media&token=6e7239ee-71e9-4984-906a-d6a146701c75",
+        "to_delete": false
+    },
+    {
+        "id": 4178,
+        "subset_id": 42,
+        "filename": "00000004178.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004178.jpg?alt=media&token=74b03884-77e8-46b2-abcf-5f33659e4d53",
+        "to_delete": false
+    },
+    {
+        "id": 4179,
+        "subset_id": 42,
+        "filename": "00000004179.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004179.jpg?alt=media&token=a5dcad0f-c758-4307-9ef9-8bebedc1b9b3",
+        "to_delete": false
+    },
+    {
+        "id": 4180,
+        "subset_id": 42,
+        "filename": "00000004180.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004180.jpg?alt=media&token=88dab450-4bd7-4a9c-9f8e-103e630cd606",
+        "to_delete": false
+    },
+    {
+        "id": 4181,
+        "subset_id": 42,
+        "filename": "00000004181.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004181.jpg?alt=media&token=da8e90e2-54c6-4980-a7ce-296f39ee95b7",
+        "to_delete": false
+    },
+    {
+        "id": 4182,
+        "subset_id": 42,
+        "filename": "00000004182.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004182.jpg?alt=media&token=38c25cd9-ccd8-448f-a79d-1003f67d648a",
+        "to_delete": false
+    },
+    {
+        "id": 4183,
+        "subset_id": 42,
+        "filename": "00000004183.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004183.jpg?alt=media&token=4182a840-0bc6-4cd3-8b68-47c6e78d7454",
+        "to_delete": false
+    },
+    {
+        "id": 4184,
+        "subset_id": 42,
+        "filename": "00000004184.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004184.png?alt=media&token=7d2f4d1f-9f44-4de1-aa09-126d2fd9c6a0",
+        "to_delete": true
+    },
+    {
+        "id": 4185,
+        "subset_id": 42,
+        "filename": "00000004185.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004185.jpg?alt=media&token=111735ba-bd67-463f-93e2-5899379caedb",
+        "to_delete": false
+    },
+    {
+        "id": 4186,
+        "subset_id": 42,
+        "filename": "00000004186.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004186.jpg?alt=media&token=fcb01a4c-4d56-467f-9ac9-bf97f9cbba30",
+        "to_delete": false
+    },
+    {
+        "id": 4187,
+        "subset_id": 42,
+        "filename": "00000004187.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004187.jpg?alt=media&token=6f3ec314-4413-4635-9f1b-adecbc5577c6",
+        "to_delete": false
+    },
+    {
+        "id": 4188,
+        "subset_id": 42,
+        "filename": "00000004188.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004188.jpg?alt=media&token=f1e9831d-ceaf-4a5b-a5a6-93fd843d0ceb",
+        "to_delete": false
+    },
+    {
+        "id": 4189,
+        "subset_id": 42,
+        "filename": "00000004189.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004189.jpg?alt=media&token=d9ceeb0e-5f79-4bd1-a77c-b2536495e706",
+        "to_delete": false
+    },
+    {
+        "id": 4190,
+        "subset_id": 42,
+        "filename": "00000004190.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004190.jpg?alt=media&token=13c8d25d-ce9c-4f8c-962f-2bfaaa8ccd98",
+        "to_delete": true
+    },
+    {
+        "id": 4191,
+        "subset_id": 42,
+        "filename": "00000004191.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004191.jpg?alt=media&token=56a06570-c05b-4fe4-938e-e1ffb7aacabd",
+        "to_delete": false
+    },
+    {
+        "id": 4192,
+        "subset_id": 42,
+        "filename": "00000004192.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004192.jpg?alt=media&token=522da356-ad37-4755-9751-448775061c73",
+        "to_delete": false
+    },
+    {
+        "id": 4193,
+        "subset_id": 42,
+        "filename": "00000004193.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004193.jpg?alt=media&token=c7862940-722c-459d-ad71-f70737383a06",
+        "to_delete": false
+    },
+    {
+        "id": 4194,
+        "subset_id": 42,
+        "filename": "00000004194.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004194.jpg?alt=media&token=d7b24680-52b2-4e64-8e7a-3bd73ff4a24e",
+        "to_delete": false
+    },
+    {
+        "id": 4195,
+        "subset_id": 42,
+        "filename": "00000004195.jpeg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004195.jpeg?alt=media&token=a4b52fb1-1cee-4523-b366-fc887a8f0957",
+        "to_delete": false
+    },
+    {
+        "id": 4196,
+        "subset_id": 42,
+        "filename": "00000004196.jpeg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004196.jpeg?alt=media&token=4f4fd132-0a81-4e5f-9f85-0172aee18725",
+        "to_delete": true
+    },
+    {
+        "id": 4197,
+        "subset_id": 42,
+        "filename": "00000004197.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004197.jpg?alt=media&token=6d30c60a-8e5f-4676-8790-a7209a83a79a",
+        "to_delete": true
+    },
+    {
+        "id": 4198,
+        "subset_id": 42,
+        "filename": "00000004198.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004198.jpg?alt=media&token=feab2eda-1212-48c9-aa71-0616a4034150",
+        "to_delete": true
+    },
+    {
+        "id": 4199,
+        "subset_id": 42,
+        "filename": "00000004199.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000004199.png?alt=media&token=f67cd9cf-4442-43ed-ba19-184bb336c748",
+        "to_delete": false
+    },
+    {
+        "id": 5900,
+        "subset_id": 60,
+        "filename": "00000005900.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005900.jpg?alt=media&token=d78bfa60-71d7-4d4e-9917-3a9324288ca8",
+        "to_delete": false
+    },
+    {
+        "id": 5901,
+        "subset_id": 60,
+        "filename": "00000005901.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005901.jpg?alt=media&token=00a37417-ca42-4889-97ec-bfb41af43883",
+        "to_delete": false
+    },
+    {
+        "id": 5902,
+        "subset_id": 60,
+        "filename": "00000005902.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005902.jpg?alt=media&token=8851ae73-47e6-4b35-8afd-19174e6becd9",
+        "to_delete": true
+    },
+    {
+        "id": 5903,
+        "subset_id": 60,
+        "filename": "00000005903.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005903.jpg?alt=media&token=b664664e-ddfd-44b0-94b0-4185c7b5cc7d",
+        "to_delete": false
+    },
+    {
+        "id": 5904,
+        "subset_id": 60,
+        "filename": "00000005904.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005904.jpg?alt=media&token=eb7e940f-ed78-4dde-b6c8-67be44ae7222",
+        "to_delete": false
+    },
+    {
+        "id": 5905,
+        "subset_id": 60,
+        "filename": "00000005905.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005905.jpg?alt=media&token=25f59eec-c0d2-4388-9db2-bef3e7fc572f",
+        "to_delete": true
+    },
+    {
+        "id": 5906,
+        "subset_id": 60,
+        "filename": "00000005906.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005906.jpg?alt=media&token=304b0636-57c8-47ac-96fe-af352690805b",
+        "to_delete": false
+    },
+    {
+        "id": 5907,
+        "subset_id": 60,
+        "filename": "00000005907.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005907.jpg?alt=media&token=3b04cbe0-9c19-40f1-9ca6-d527acd4ac43",
+        "to_delete": true
+    },
+    {
+        "id": 5908,
+        "subset_id": 60,
+        "filename": "00000005908.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005908.jpg?alt=media&token=a003b316-c5a2-441a-ba8a-06a432228bb3",
+        "to_delete": false
+    },
+    {
+        "id": 5909,
+        "subset_id": 60,
+        "filename": "00000005909.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005909.jpg?alt=media&token=b0176f48-870c-48ab-8f2c-3f34acd50cb2",
+        "to_delete": false
+    },
+    {
+        "id": 5910,
+        "subset_id": 60,
+        "filename": "00000005910.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005910.jpg?alt=media&token=28f181f1-d1c4-4c42-b7d4-28082901682c",
+        "to_delete": false
+    },
+    {
+        "id": 5911,
+        "subset_id": 60,
+        "filename": "00000005911.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005911.jpg?alt=media&token=c108c11c-db42-4d91-805f-3331b55dd477",
+        "to_delete": true
+    },
+    {
+        "id": 5912,
+        "subset_id": 60,
+        "filename": "00000005912.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005912.jpg?alt=media&token=914fa347-31a0-4762-806c-de68bd2117a6",
+        "to_delete": false
+    },
+    {
+        "id": 5913,
+        "subset_id": 60,
+        "filename": "00000005913.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005913.jpg?alt=media&token=f1d9ea6b-0686-4926-b3fa-80575aafe12b",
+        "to_delete": false
+    },
+    {
+        "id": 5914,
+        "subset_id": 60,
+        "filename": "00000005914.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005914.jpg?alt=media&token=351100ef-330c-4717-9739-91828c994fe7",
+        "to_delete": true
+    },
+    {
+        "id": 5915,
+        "subset_id": 60,
+        "filename": "00000005915.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005915.jpg?alt=media&token=2dd91c1e-c147-4d8b-be03-f62ccd461a4f",
+        "to_delete": false
+    },
+    {
+        "id": 5916,
+        "subset_id": 60,
+        "filename": "00000005916.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005916.jpg?alt=media&token=eebd8883-1709-480b-b6c5-ee0e771dc6b1",
+        "to_delete": true
+    },
+    {
+        "id": 5917,
+        "subset_id": 60,
+        "filename": "00000005917.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005917.jpg?alt=media&token=1e5d18f1-3f20-4f5e-a830-f5ca565afc22",
+        "to_delete": false
+    },
+    {
+        "id": 5918,
+        "subset_id": 60,
+        "filename": "00000005918.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005918.jpg?alt=media&token=08af4897-8f1d-478a-88c6-a3d3ad025bde",
+        "to_delete": false
+    },
+    {
+        "id": 5919,
+        "subset_id": 60,
+        "filename": "00000005919.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005919.jpg?alt=media&token=188b541b-b7ed-4cea-86eb-f0cdcb0fa522",
+        "to_delete": false
+    },
+    {
+        "id": 5920,
+        "subset_id": 60,
+        "filename": "00000005920.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005920.jpg?alt=media&token=f97e6378-ac1d-4645-8c2a-90ad33ad6fe5",
+        "to_delete": true
+    },
+    {
+        "id": 5921,
+        "subset_id": 60,
+        "filename": "00000005921.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005921.jpg?alt=media&token=bec20911-e6a1-49dd-8a8d-263785102715",
+        "to_delete": true
+    },
+    {
+        "id": 5922,
+        "subset_id": 60,
+        "filename": "00000005922.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005922.jpg?alt=media&token=a69de33e-ced0-4068-969a-fbd439cefeb3",
+        "to_delete": false
+    },
+    {
+        "id": 5923,
+        "subset_id": 60,
+        "filename": "00000005923.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005923.jpg?alt=media&token=ae5523ae-e828-4c43-acd8-eefd51dc9966",
+        "to_delete": false
+    },
+    {
+        "id": 5924,
+        "subset_id": 60,
+        "filename": "00000005924.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005924.jpg?alt=media&token=03cca1b4-ebf2-40d6-9b32-0d9b752077e0",
+        "to_delete": false
+    },
+    {
+        "id": 5925,
+        "subset_id": 60,
+        "filename": "00000005925.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005925.jpg?alt=media&token=6826270b-5e71-4634-a252-efd0efb4803f",
+        "to_delete": true
+    },
+    {
+        "id": 5926,
+        "subset_id": 60,
+        "filename": "00000005926.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005926.jpg?alt=media&token=b4e9e71f-a63d-438a-a123-e62671b2a7db",
+        "to_delete": false
+    },
+    {
+        "id": 5927,
+        "subset_id": 60,
+        "filename": "00000005927.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005927.jpg?alt=media&token=338b8962-f7de-4ace-b904-e58a459d7fa4",
+        "to_delete": false
+    },
+    {
+        "id": 5928,
+        "subset_id": 60,
+        "filename": "00000005928.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005928.jpg?alt=media&token=7e0536a0-04fb-4ad8-856f-01b185ff6b99",
+        "to_delete": true
+    },
+    {
+        "id": 5929,
+        "subset_id": 60,
+        "filename": "00000005929.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005929.jpg?alt=media&token=aa1097f0-f13b-44c3-af12-a1792931fa18",
+        "to_delete": false
+    },
+    {
+        "id": 5930,
+        "subset_id": 60,
+        "filename": "00000005930.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005930.jpg?alt=media&token=611b915c-72ba-43a2-9f9f-118e71604c73",
+        "to_delete": false
+    },
+    {
+        "id": 5931,
+        "subset_id": 60,
+        "filename": "00000005931.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005931.jpg?alt=media&token=671cd5a9-5c28-40a9-bb43-8967e1c1b6cd",
+        "to_delete": true
+    },
+    {
+        "id": 5932,
+        "subset_id": 60,
+        "filename": "00000005932.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005932.jpg?alt=media&token=f4c8d1a9-2018-4b30-a67a-535d2a7d6fee",
+        "to_delete": true
+    },
+    {
+        "id": 5933,
+        "subset_id": 60,
+        "filename": "00000005933.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005933.jpg?alt=media&token=85040540-eb55-4d25-a8a8-eae675a543e2",
+        "to_delete": true
+    },
+    {
+        "id": 5934,
+        "subset_id": 60,
+        "filename": "00000005934.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005934.jpg?alt=media&token=41fa3f30-9010-4c3d-b09b-bf12dbece2e5",
+        "to_delete": true
+    },
+    {
+        "id": 5935,
+        "subset_id": 60,
+        "filename": "00000005935.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005935.jpg?alt=media&token=008418e8-f581-4dcb-91dc-d7bc2d541e21",
+        "to_delete": false
+    },
+    {
+        "id": 5936,
+        "subset_id": 60,
+        "filename": "00000005936.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005936.jpg?alt=media&token=9e148b59-aeb2-4b49-b787-eb12ea41e0dc",
+        "to_delete": false
+    },
+    {
+        "id": 5937,
+        "subset_id": 60,
+        "filename": "00000005937.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005937.jpg?alt=media&token=f48ad38b-61aa-4c8f-91a2-3dda4cb47115",
+        "to_delete": true
+    },
+    {
+        "id": 5938,
+        "subset_id": 60,
+        "filename": "00000005938.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005938.jpg?alt=media&token=81141182-f340-4f96-86d3-e7fdf029c301",
+        "to_delete": false
+    },
+    {
+        "id": 5939,
+        "subset_id": 60,
+        "filename": "00000005939.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005939.jpg?alt=media&token=c8c99acd-31e0-4085-a1fa-61fcd67e1eef",
+        "to_delete": false
+    },
+    {
+        "id": 5940,
+        "subset_id": 60,
+        "filename": "00000005940.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005940.jpg?alt=media&token=542aeecc-e04d-464a-9ea3-ccd5dbbb78dd",
+        "to_delete": false
+    },
+    {
+        "id": 5941,
+        "subset_id": 60,
+        "filename": "00000005941.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005941.jpg?alt=media&token=ca7d7bfd-d5af-4b02-8e82-31213ad1dfab",
+        "to_delete": false
+    },
+    {
+        "id": 5942,
+        "subset_id": 60,
+        "filename": "00000005942.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005942.jpg?alt=media&token=b5dc71a6-3a37-4a86-84a5-0d25f89f8ab1",
+        "to_delete": true
+    },
+    {
+        "id": 5943,
+        "subset_id": 60,
+        "filename": "00000005943.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005943.jpg?alt=media&token=8b34fdf2-b78b-4532-8f9f-aaf58b3a0491",
+        "to_delete": false
+    },
+    {
+        "id": 5944,
+        "subset_id": 60,
+        "filename": "00000005944.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005944.jpg?alt=media&token=dda1d070-acf1-4b4e-b8f6-8573bee347e5",
+        "to_delete": false
+    },
+    {
+        "id": 5945,
+        "subset_id": 60,
+        "filename": "00000005945.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005945.jpg?alt=media&token=8800bae2-0e24-4cd2-8e02-4028d10117b6",
+        "to_delete": false
+    },
+    {
+        "id": 5946,
+        "subset_id": 60,
+        "filename": "00000005946.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005946.jpg?alt=media&token=b5b83016-969d-4584-a4b0-4c1e426f8730",
+        "to_delete": false
+    },
+    {
+        "id": 5947,
+        "subset_id": 60,
+        "filename": "00000005947.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005947.jpg?alt=media&token=6c050d9b-3eeb-47ce-b112-6c2fb2dfafaa",
+        "to_delete": true
+    },
+    {
+        "id": 5948,
+        "subset_id": 60,
+        "filename": "00000005948.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005948.jpg?alt=media&token=36ca99e5-3a59-4fe8-b615-5eef3697611b",
+        "to_delete": false
+    },
+    {
+        "id": 5949,
+        "subset_id": 60,
+        "filename": "00000005949.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005949.jpg?alt=media&token=9e4f87e5-5946-440f-82b9-4c475c1e7b49",
+        "to_delete": false
+    },
+    {
+        "id": 5950,
+        "subset_id": 60,
+        "filename": "00000005950.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005950.jpg?alt=media&token=e2285e81-7f7a-4377-88bc-f08e5ff0801a",
+        "to_delete": false
+    },
+    {
+        "id": 5951,
+        "subset_id": 60,
+        "filename": "00000005951.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005951.jpg?alt=media&token=06ea1a1e-5bec-4d3b-ae88-00b2aa9b3d2a",
+        "to_delete": false
+    },
+    {
+        "id": 5952,
+        "subset_id": 60,
+        "filename": "00000005952.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005952.jpg?alt=media&token=9ae207ef-bc0a-4679-ab9a-639425015a37",
+        "to_delete": false
+    },
+    {
+        "id": 5953,
+        "subset_id": 60,
+        "filename": "00000005953.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005953.jpg?alt=media&token=be9c7624-0b7e-4bc8-93c0-1e18ef5fc4a5",
+        "to_delete": false
+    },
+    {
+        "id": 5954,
+        "subset_id": 60,
+        "filename": "00000005954.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005954.jpg?alt=media&token=2fb98970-eb4d-4d6e-9e73-05df461a802c",
+        "to_delete": false
+    },
+    {
+        "id": 5955,
+        "subset_id": 60,
+        "filename": "00000005955.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005955.jpg?alt=media&token=69345c8d-052b-4e14-bb45-edaafa25adb8",
+        "to_delete": false
+    },
+    {
+        "id": 5956,
+        "subset_id": 60,
+        "filename": "00000005956.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005956.jpg?alt=media&token=499edb27-8069-4c3b-bfb8-a6431daca76d",
+        "to_delete": true
+    },
+    {
+        "id": 5957,
+        "subset_id": 60,
+        "filename": "00000005957.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005957.jpg?alt=media&token=0abffced-ac5f-480f-8f33-3bcfb9d14692",
+        "to_delete": false
+    },
+    {
+        "id": 5958,
+        "subset_id": 60,
+        "filename": "00000005958.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005958.jpg?alt=media&token=74c7f405-aad8-4d7d-b17f-eae8b757bfe2",
+        "to_delete": true
+    },
+    {
+        "id": 5959,
+        "subset_id": 60,
+        "filename": "00000005959.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005959.jpg?alt=media&token=401e9884-8873-4241-a983-43c2629c3c61",
+        "to_delete": false
+    },
+    {
+        "id": 5960,
+        "subset_id": 60,
+        "filename": "00000005960.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005960.jpg?alt=media&token=dd48d346-7a44-49e5-ae62-481058e1ec07",
+        "to_delete": false
+    },
+    {
+        "id": 5961,
+        "subset_id": 60,
+        "filename": "00000005961.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005961.jpg?alt=media&token=46172271-8ce4-42d2-8e08-85fe63804bf8",
+        "to_delete": false
+    },
+    {
+        "id": 5962,
+        "subset_id": 60,
+        "filename": "00000005962.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005962.jpg?alt=media&token=4a44b15e-7f69-4f3f-9a8b-720f5e4bcc02",
+        "to_delete": true
+    },
+    {
+        "id": 5963,
+        "subset_id": 60,
+        "filename": "00000005963.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005963.jpg?alt=media&token=d1f2ae1b-ec4c-46f7-ab0e-3cef66dfd3da",
+        "to_delete": false
+    },
+    {
+        "id": 5964,
+        "subset_id": 60,
+        "filename": "00000005964.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005964.jpg?alt=media&token=bc78baf5-cdee-4743-b085-a79f5890c3c6",
+        "to_delete": false
+    },
+    {
+        "id": 5965,
+        "subset_id": 60,
+        "filename": "00000005965.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005965.jpg?alt=media&token=67bc031c-2885-44f9-ba3f-39ecf3c5a981",
+        "to_delete": false
+    },
+    {
+        "id": 5966,
+        "subset_id": 60,
+        "filename": "00000005966.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005966.jpg?alt=media&token=6d8dce33-7404-4c98-9a02-c816388c5f9f",
+        "to_delete": false
+    },
+    {
+        "id": 5967,
+        "subset_id": 60,
+        "filename": "00000005967.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005967.jpg?alt=media&token=a06ab13a-803c-4306-93ff-d8f651c5986e",
+        "to_delete": false
+    },
+    {
+        "id": 5968,
+        "subset_id": 60,
+        "filename": "00000005968.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005968.jpg?alt=media&token=09acf327-9e67-434b-a228-0b3deefe22f5",
+        "to_delete": true
+    },
+    {
+        "id": 5969,
+        "subset_id": 60,
+        "filename": "00000005969.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005969.jpg?alt=media&token=97b2ae94-589b-456e-9b6b-430b3152a0cb",
+        "to_delete": false
+    },
+    {
+        "id": 5970,
+        "subset_id": 60,
+        "filename": "00000005970.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005970.jpg?alt=media&token=b8521327-321b-45d4-8817-4bc1ffc49794",
+        "to_delete": false
+    },
+    {
+        "id": 5971,
+        "subset_id": 60,
+        "filename": "00000005971.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005971.jpg?alt=media&token=dc2adebb-ef7c-414b-819a-ece3f339baf7",
+        "to_delete": false
+    },
+    {
+        "id": 5972,
+        "subset_id": 60,
+        "filename": "00000005972.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005972.jpg?alt=media&token=8ef97ada-7d2f-4cf9-9ae4-9375aa0d2f1f",
+        "to_delete": false
+    },
+    {
+        "id": 5973,
+        "subset_id": 60,
+        "filename": "00000005973.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005973.jpg?alt=media&token=04c63de4-420d-4dd5-9fdf-e8751c3158d6",
+        "to_delete": false
+    },
+    {
+        "id": 5974,
+        "subset_id": 60,
+        "filename": "00000005974.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005974.jpg?alt=media&token=9e3ce58f-8a21-49ad-bee9-1034b22c1094",
+        "to_delete": false
+    },
+    {
+        "id": 5975,
+        "subset_id": 60,
+        "filename": "00000005975.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005975.jpg?alt=media&token=0a263fae-87d4-4c67-9306-8646a19ed0df",
+        "to_delete": false
+    },
+    {
+        "id": 5976,
+        "subset_id": 60,
+        "filename": "00000005976.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005976.jpg?alt=media&token=4af9ae03-86b2-45c0-af2a-ec354087b952",
+        "to_delete": false
+    },
+    {
+        "id": 5977,
+        "subset_id": 60,
+        "filename": "00000005977.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005977.jpg?alt=media&token=d91c1c40-0603-4dfb-9f75-79ffacf2cf13",
+        "to_delete": false
+    },
+    {
+        "id": 5978,
+        "subset_id": 60,
+        "filename": "00000005978.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005978.jpg?alt=media&token=32dca57e-61f0-4797-8fbe-f4b4019d2958",
+        "to_delete": false
+    },
+    {
+        "id": 5979,
+        "subset_id": 60,
+        "filename": "00000005979.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005979.jpg?alt=media&token=5326a47c-3b20-451f-9338-ae205713bc04",
+        "to_delete": true
+    },
+    {
+        "id": 5980,
+        "subset_id": 60,
+        "filename": "00000005980.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005980.jpg?alt=media&token=3c54f90a-2881-4446-965c-ee5e72e264d0",
+        "to_delete": false
+    },
+    {
+        "id": 5981,
+        "subset_id": 60,
+        "filename": "00000005981.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005981.jpg?alt=media&token=9ee55306-40ed-4091-9f40-af8107ad5caa",
+        "to_delete": false
+    },
+    {
+        "id": 5982,
+        "subset_id": 60,
+        "filename": "00000005982.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005982.jpg?alt=media&token=96c289a7-840a-45aa-81df-9a1c096fa652",
+        "to_delete": false
+    },
+    {
+        "id": 5983,
+        "subset_id": 60,
+        "filename": "00000005983.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005983.jpg?alt=media&token=bc1ae717-b9b0-471c-b8db-a24d68cde697",
+        "to_delete": false
+    },
+    {
+        "id": 5984,
+        "subset_id": 60,
+        "filename": "00000005984.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005984.jpg?alt=media&token=b15b94e4-6523-45a5-ae36-4c0b2a84dad3",
+        "to_delete": false
+    },
+    {
+        "id": 5985,
+        "subset_id": 60,
+        "filename": "00000005985.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005985.jpg?alt=media&token=050393ad-918d-4cd7-8074-d8218c366084",
+        "to_delete": true
+    },
+    {
+        "id": 5986,
+        "subset_id": 60,
+        "filename": "00000005986.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005986.jpg?alt=media&token=0ba9c03e-f219-4b13-ba8b-743e7dbdd251",
+        "to_delete": false
+    },
+    {
+        "id": 5987,
+        "subset_id": 60,
+        "filename": "00000005987.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005987.jpg?alt=media&token=5f8f7733-c27e-4c41-a578-7d04677920fe",
+        "to_delete": false
+    },
+    {
+        "id": 5988,
+        "subset_id": 60,
+        "filename": "00000005988.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005988.jpg?alt=media&token=021e0690-7180-4190-92fb-08287409bc0c",
+        "to_delete": true
+    },
+    {
+        "id": 5989,
+        "subset_id": 60,
+        "filename": "00000005989.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005989.jpg?alt=media&token=6dae89a9-7dc8-4b83-be03-37e064dce0fd",
+        "to_delete": false
+    },
+    {
+        "id": 5990,
+        "subset_id": 60,
+        "filename": "00000005990.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005990.jpg?alt=media&token=1fbcd414-f303-4525-861d-77433fc35db1",
+        "to_delete": false
+    },
+    {
+        "id": 5991,
+        "subset_id": 60,
+        "filename": "00000005991.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005991.jpg?alt=media&token=9e66b330-ffe0-47ea-8abe-ec82cdaad508",
+        "to_delete": false
+    },
+    {
+        "id": 5992,
+        "subset_id": 60,
+        "filename": "00000005992.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005992.jpg?alt=media&token=9ef53322-d441-451b-b09c-b114b313aa69",
+        "to_delete": true
+    },
+    {
+        "id": 5993,
+        "subset_id": 60,
+        "filename": "00000005993.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005993.jpg?alt=media&token=9ac08585-8d57-4976-b7ae-1bc4e3ae1e89",
+        "to_delete": false
+    },
+    {
+        "id": 5994,
+        "subset_id": 60,
+        "filename": "00000005994.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005994.jpg?alt=media&token=54871122-6cd9-4ff7-9c3a-84555b3a2f44",
+        "to_delete": false
+    },
+    {
+        "id": 5995,
+        "subset_id": 60,
+        "filename": "00000005995.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005995.jpg?alt=media&token=eedb7c2e-2f2d-4285-99d6-d457a5a05ab9",
+        "to_delete": true
+    },
+    {
+        "id": 5996,
+        "subset_id": 60,
+        "filename": "00000005996.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005996.jpg?alt=media&token=edb20381-c66c-4cae-ac76-2cf0ec06c7f1",
+        "to_delete": false
+    },
+    {
+        "id": 5997,
+        "subset_id": 60,
+        "filename": "00000005997.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005997.jpg?alt=media&token=a3a3e262-3ea0-434d-8f01-d1d8bf4a7387",
+        "to_delete": true
+    },
+    {
+        "id": 5998,
+        "subset_id": 60,
+        "filename": "00000005998.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005998.jpg?alt=media&token=5da21994-6e07-422f-88a6-852bb2693e91",
+        "to_delete": false
+    },
+    {
+        "id": 5999,
+        "subset_id": 60,
+        "filename": "00000005999.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/openvivqa-nlp-uit.appspot.com/o/00000005999.jpg?alt=media&token=4cb82f1a-828e-4640-9424-6e2224649136",
+        "to_delete": false
+    }
+]
